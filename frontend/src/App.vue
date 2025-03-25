@@ -4,7 +4,7 @@ import { onMounted } from 'vue';
 
 async function apiTest() {
    try {
-      const response = await fetch('http://localhost:8000/', {
+      const response = await fetch('http://localhost:8000/test', {
          method: 'GET',
          headers: {},
       });
@@ -30,7 +30,7 @@ console.log('test');
       <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
       <div class="wrapper">
-         <h1>Test</h1>
+         <h1>hhhh</h1>
       </div>
    </header>
 </template>
