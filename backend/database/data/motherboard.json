@@ -1,0 +1,67 @@
+[
+    {
+        "name": "MSI B650 GAMING PLUS WIFI",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/ff33ebb87ed9f5fa5f9c54d6d316ae82.256p.jpg",
+        "price": 240
+    },
+    {
+        "name": "MSI MAG B650 TOMAHAWK WIFI",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/dc9235e0d8052745493eb900bb9df6f6.256p.jpg",
+        "price": 260
+    },
+    {
+        "name": "Gigabyte X870E AORUS ELITE WIFI7",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/1e1c3a84fdb8ea01eec98abd4c40d5d8.256p.jpg",
+        "price": 350
+    },
+    {
+        "name": "MSI MAG X870 TOMAHAWK WIFI",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/ec3fc6477ed914f51a028bc29f0e20aa.256p.jpg",
+        "price": 360
+    },
+    {
+        "name": "Gigabyte B650 EAGLE AX",
+        "image_url": "https://m.media-amazon.com/images/I/51BdjazabVL.jpg",
+        "price": 220
+    },
+    {
+        "name": "Asus PRIME B550M-A WIFI II",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/ff4b4e2c7f72b014f39f1864b19e7250.256p.jpg",
+        "price": 200
+    },
+    {
+        "name": "MSI B550 GAMING GEN3",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/cbc52effd345bd5e9d66b5f7d198f8b4.256p.jpg",
+        "price": 180
+    },
+    {
+        "name": "Gigabyte X870 EAGLE WIFI7",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/a06aef05389e93f5e4de5dc26d807abe.256p.jpg",
+        "price": 300
+    },
+    {
+        "name": "Gigabyte A520M K V2",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/ad69b238cf570ec07fb8a00adda58eda.256p.jpg",
+        "price": 150
+    },
+    {
+        "name": "MSI B760 GAMING PLUS WIFI",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/f22d681ccfd01238e756443a474f400b.256p.jpg",
+        "price": 400
+    },
+    {
+        "name": "MSI B550M PRO-VDH WIFI",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/57b4a5399dc626e9c5786f786aeb94ac.256p.jpg",
+        "price": 190
+    },
+    {
+        "name": "Gigabyte X870 AORUS ELITE WIFI7 ICE",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/d1f30b497f0fd6289278b33ec776f86b.256p.jpg",
+        "price": 410
+    },
+    {
+        "name": "MSI PRO B650-S WIFI",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/a3020fc8322a2821927ed01af1155620.256p.jpg",
+        "price": 230
+    }
+]

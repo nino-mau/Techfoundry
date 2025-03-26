@@ -1,0 +1,1092 @@
+[
+    {
+        "name": "MSI GeForce RTX 3060 Ventus 2X 12G",
+        "price": 288,
+        "chipset": "GeForce RTX 3060 12GB",
+        "memory": 12,
+        "core_clock": 1320,
+        "boost_clock": 1777,
+        "color": "Black",
+        "length": 235
+    },
+    {
+        "name": "Gigabyte WINDFORCE OC",
+        "price": 581.19,
+        "chipset": "GeForce RTX 4070",
+        "memory": 12,
+        "core_clock": 1920,
+        "boost_clock": 2490,
+        "color": "Black",
+        "length": 261
+    },
+    {
+        "name": "Asus ROG STRIX GAMING OC",
+        "price": 1979.99,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2235,
+        "boost_clock": 2640,
+        "color": "Black",
+        "length": 358
+    },
+    {
+        "name": "Gigabyte WINDFORCE OC",
+        "price": 799.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2625,
+        "color": "Black",
+        "length": 261
+    },
+    {
+        "name": "Asus DUAL OC",
+        "price": 309.99,
+        "chipset": "GeForce RTX 4060",
+        "memory": 8,
+        "core_clock": 1830,
+        "boost_clock": 2535,
+        "color": "Black",
+        "length": 227
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "price": 499,
+        "chipset": "Radeon RX 7800 XT",
+        "memory": 16,
+        "core_clock": 1295,
+        "boost_clock": 2565,
+        "color": "Black",
+        "length": 302
+    },
+    {
+        "name": "Gigabyte WINDFORCE OC",
+        "price": 599.99,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2505,
+        "color": "Black",
+        "length": 261
+    },
+    {
+        "name": "ASRock Challenger D",
+        "price": 219.99,
+        "chipset": "Radeon RX 6600",
+        "memory": 8,
+        "core_clock": 1626,
+        "boost_clock": null,
+        "color": "Black",
+        "length": 269
+    },
+    {
+        "name": "PNY VCNRTX6000ADA-PB",
+        "price": 9999,
+        "chipset": "RTX 6000 Ada Generation",
+        "memory": 48,
+        "core_clock": 915,
+        "boost_clock": 2505,
+        "color": "Black / Gold",
+        "length": 267
+    },
+    {
+        "name": "XFX Speedster SWFT 309",
+        "price": 299.99,
+        "chipset": "Radeon RX 6700 XT",
+        "memory": 12,
+        "core_clock": 2321,
+        "boost_clock": 2581,
+        "color": "Black",
+        "length": 304
+    },
+    {
+        "name": "NVIDIA Founders Edition",
+        "price": 1959.99,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2230,
+        "boost_clock": 2520,
+        "color": "Black / Silver",
+        "length": 304
+    },
+    {
+        "name": "Gigabyte EAGLE",
+        "price": 399.99,
+        "chipset": "GeForce RTX 4060 Ti",
+        "memory": 8,
+        "core_clock": 2310,
+        "boost_clock": null,
+        "color": "Black",
+        "length": 272
+    },
+    {
+        "name": "XFX Speedster SWFT 210 Core",
+        "price": 219.99,
+        "chipset": "Radeon RX 6650 XT",
+        "memory": 8,
+        "core_clock": 2055,
+        "boost_clock": 2635,
+        "color": "Black / Silver",
+        "length": 241
+    },
+    {
+        "name": "Asus ROG STRIX GAMING OC",
+        "price": 1979.99,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2235,
+        "boost_clock": 2640,
+        "color": "White",
+        "length": 358
+    },
+    {
+        "name": "Gigabyte AERO OC",
+        "price": 319.99,
+        "chipset": "GeForce RTX 4060",
+        "memory": 8,
+        "core_clock": 1830,
+        "boost_clock": null,
+        "color": "White",
+        "length": 281
+    },
+    {
+        "name": "Asus TUF GAMING",
+        "price": 1369,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2580,
+        "color": "Black",
+        "length": 348
+    },
+    {
+        "name": "Gigabyte EAGLE",
+        "price": 199.99,
+        "chipset": "Radeon RX 6600",
+        "memory": 8,
+        "core_clock": 1626,
+        "boost_clock": 2491,
+        "color": "Black / Silver",
+        "length": 282
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "price": 409.99,
+        "chipset": "Radeon RX 7700 XT",
+        "memory": 12,
+        "core_clock": 1700,
+        "boost_clock": 2599,
+        "color": "Black",
+        "length": 302
+    },
+    {
+        "name": "XFX Speedster MERC 310 Black Edition",
+        "price": 916.94,
+        "chipset": "Radeon RX 7900 XTX",
+        "memory": 24,
+        "core_clock": 2300,
+        "boost_clock": 2615,
+        "color": "Black / Silver",
+        "length": 344
+    },
+    {
+        "name": "XFX Speedster SWFT 319",
+        "price": 359.99,
+        "chipset": "Radeon RX 6800",
+        "memory": 16,
+        "core_clock": 1700,
+        "boost_clock": 2105,
+        "color": "Black",
+        "length": 340
+    },
+    {
+        "name": "Asus DUAL OC",
+        "price": 609,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2550,
+        "color": "Black",
+        "length": 267
+    },
+    {
+        "name": "MSI VENTUS 2X BLACK OC",
+        "price": 293,
+        "chipset": "GeForce RTX 4060",
+        "memory": 8,
+        "core_clock": 1830,
+        "boost_clock": 2505,
+        "color": "Black",
+        "length": 199
+    },
+    {
+        "name": "XFX GTS XXX",
+        "price": 129.99,
+        "chipset": "Radeon RX 580",
+        "memory": 8,
+        "core_clock": 1366,
+        "boost_clock": 1386,
+        "color": "Black / Red",
+        "length": 270
+    },
+    {
+        "name": "Gigabyte WINDFORCE OC",
+        "price": 299.99,
+        "chipset": "GeForce RTX 4060",
+        "memory": 8,
+        "core_clock": 1830,
+        "boost_clock": null,
+        "color": "Black",
+        "length": 192
+    },
+    {
+        "name": "Sapphire PULSE",
+        "price": 699.99,
+        "chipset": "Radeon RX 7900 XT",
+        "memory": 20,
+        "core_clock": 2000,
+        "boost_clock": 2450,
+        "color": "Black / Red",
+        "length": 313
+    },
+    {
+        "name": "Asus TUF GAMING OC",
+        "price": 839.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2670,
+        "color": "Black",
+        "length": 305
+    },
+    {
+        "name": "Asus DUAL OC",
+        "price": 604.47,
+        "chipset": "GeForce RTX 4070",
+        "memory": 12,
+        "core_clock": 2520,
+        "boost_clock": 2550,
+        "color": "Black",
+        "length": 267
+    },
+    {
+        "name": "MSI RTX 3060 Ventus 3X 12G OC",
+        "price": 299.99,
+        "chipset": "GeForce RTX 3060 12GB",
+        "memory": 12,
+        "core_clock": 1320,
+        "boost_clock": 1807,
+        "color": "Black",
+        "length": 316
+    },
+    {
+        "name": "ASRock Challenger OC",
+        "price": 399.99,
+        "chipset": "Radeon RX 7700 XT",
+        "memory": 12,
+        "core_clock": 1700,
+        "boost_clock": 2584,
+        "color": "Black",
+        "length": 266
+    },
+    {
+        "name": "Asus ROG Matrix Platinum",
+        "price": 4699,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2670,
+        "boost_clock": 2700,
+        "color": "Black / Silver",
+        "length": 286
+    },
+    {
+        "name": "Asus DUAL OC",
+        "price": 569.99,
+        "chipset": "GeForce RTX 4070",
+        "memory": 12,
+        "core_clock": 2520,
+        "boost_clock": 2550,
+        "color": "White",
+        "length": 267
+    },
+    {
+        "name": "Zotac GAMING Trinity",
+        "price": 1087.93,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2550,
+        "color": "Black",
+        "length": 307
+    },
+    {
+        "name": "XFX Speedster QICK 319 Core",
+        "price": 299.99,
+        "chipset": "Radeon RX 6750 XT",
+        "memory": 12,
+        "core_clock": 2150,
+        "boost_clock": 2600,
+        "color": "Black",
+        "length": 323
+    },
+    {
+        "name": "Asus DUAL OC",
+        "price": 384.99,
+        "chipset": "GeForce RTX 4060 Ti",
+        "memory": 8,
+        "core_clock": 2310,
+        "boost_clock": 2595,
+        "color": "Black",
+        "length": 227
+    },
+    {
+        "name": "MSI VENTUS 3X OC",
+        "price": 1029.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2595,
+        "color": "Black",
+        "length": 322
+    },
+    {
+        "name": "Zotac GAMING Trinity OC",
+        "price": 839.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2625,
+        "color": "White",
+        "length": 307
+    },
+    {
+        "name": "Sapphire PULSE",
+        "price": 519.99,
+        "chipset": "Radeon RX 7800 XT",
+        "memory": 16,
+        "core_clock": 1295,
+        "boost_clock": null,
+        "color": "Black / Red",
+        "length": 280
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "price": 549.99,
+        "chipset": "Radeon RX 7900 GRE",
+        "memory": 16,
+        "core_clock": 1270,
+        "boost_clock": 2391,
+        "color": "Black",
+        "length": 302
+    },
+    {
+        "name": "Gigabyte AERO OC",
+        "price": 679.99,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2565,
+        "color": "White / Silver",
+        "length": 300
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "price": 329.99,
+        "chipset": "Radeon RX 7600 XT",
+        "memory": 16,
+        "core_clock": 1720,
+        "boost_clock": null,
+        "color": "Black / Gray",
+        "length": 281
+    },
+    {
+        "name": "Asus TUF GAMING OC",
+        "price": 1779,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2235,
+        "boost_clock": 2595,
+        "color": "Black",
+        "length": 348
+    },
+    {
+        "name": "Sapphire NITRO+",
+        "price": 1029.99,
+        "chipset": "Radeon RX 7900 XTX",
+        "memory": 24,
+        "core_clock": 2300,
+        "boost_clock": 2680,
+        "color": "Silver / Black",
+        "length": 320
+    },
+    {
+        "name": "NVIDIA Founders Edition",
+        "price": 485,
+        "chipset": "GeForce RTX 3060 Ti",
+        "memory": 8,
+        "core_clock": 1410,
+        "boost_clock": 1670,
+        "color": "Black / Silver",
+        "length": 242
+    },
+    {
+        "name": "Sapphire PURE",
+        "price": 539.99,
+        "chipset": "Radeon RX 7800 XT",
+        "memory": 16,
+        "core_clock": 1295,
+        "boost_clock": 2475,
+        "color": "White",
+        "length": 320
+    },
+    {
+        "name": "Sapphire PULSE",
+        "price": 929.99,
+        "chipset": "Radeon RX 7900 XTX",
+        "memory": 24,
+        "core_clock": 2300,
+        "boost_clock": 2525,
+        "color": "Black / Red",
+        "length": 313
+    },
+    {
+        "name": "Gigabyte WINDFORCE V2",
+        "price": 1233,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2550,
+        "color": "Black",
+        "length": 330
+    },
+    {
+        "name": "Sapphire PULSE",
+        "price": 399.99,
+        "chipset": "Radeon RX 7700 XT",
+        "memory": 12,
+        "core_clock": 1700,
+        "boost_clock": 2544,
+        "color": "Black / Red",
+        "length": 280
+    },
+    {
+        "name": "Asus ProArt OC",
+        "price": 1149.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2640,
+        "color": "Black / Gold",
+        "length": 300
+    },
+    {
+        "name": "ASRock Challenger OC",
+        "price": 499.99,
+        "chipset": "Radeon RX 7800 XT",
+        "memory": 16,
+        "core_clock": 1295,
+        "boost_clock": 2475,
+        "color": "Black",
+        "length": 267
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "price": 1799.99,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2235,
+        "boost_clock": null,
+        "color": "Black",
+        "length": 340
+    },
+    {
+        "name": "Sapphire PULSE",
+        "price": 549.99,
+        "chipset": "Radeon RX 7900 GRE",
+        "memory": 16,
+        "core_clock": 1270,
+        "boost_clock": 2290,
+        "color": "Black / Red",
+        "length": 320
+    },
+    {
+        "name": "PowerColor Fighter",
+        "price": 199.99,
+        "chipset": "Radeon RX 6600",
+        "memory": 8,
+        "core_clock": 1626,
+        "boost_clock": 2491,
+        "color": "Black",
+        "length": 200
+    },
+    {
+        "name": "NVIDIA Founders Edition",
+        "price": 714.99,
+        "chipset": "GeForce RTX 4070",
+        "memory": 12,
+        "core_clock": 1920,
+        "boost_clock": 2480,
+        "color": "Black / Silver",
+        "length": 244
+    },
+    {
+        "name": "Asus ROG STRIX GAMING OC",
+        "price": 1299.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2670,
+        "color": "White",
+        "length": 358
+    },
+    {
+        "name": "Zotac GAMING Trinity",
+        "price": 779.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2610,
+        "color": "Black",
+        "length": 307
+    },
+    {
+        "name": "Asus TUF GAMING OC",
+        "price": 1099.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2640,
+        "color": "Black",
+        "length": 348
+    },
+    {
+        "name": "MSI VENTUS 2X BLACK OC",
+        "price": 479.06,
+        "chipset": "GeForce RTX 4060 Ti",
+        "memory": 16,
+        "core_clock": 2310,
+        "boost_clock": 2625,
+        "color": "Black",
+        "length": 199
+    },
+    {
+        "name": "NVIDIA Founders Edition",
+        "price": null,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2480,
+        "color": "Black / Silver",
+        "length": 244
+    },
+    {
+        "name": "XFX Speedster SWFT 210",
+        "price": 199.99,
+        "chipset": "Radeon RX 6600",
+        "memory": 8,
+        "core_clock": 1626,
+        "boost_clock": 2491,
+        "color": "Black",
+        "length": 241
+    },
+    {
+        "name": "MSI VENTUS 2X OC",
+        "price": 179.99,
+        "chipset": "GeForce RTX 3050 6GB",
+        "memory": 6,
+        "core_clock": 1040,
+        "boost_clock": 1492,
+        "color": "Black",
+        "length": 189
+    },
+    {
+        "name": "Asus TUF GAMING",
+        "price": null,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2640,
+        "color": "Black",
+        "length": 305
+    },
+    {
+        "name": "Zotac GAMING Trinity OC",
+        "price": 1069.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2565,
+        "color": "White",
+        "length": 307
+    },
+    {
+        "name": "Zotac Twin Edge",
+        "price": 589.99,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2475,
+        "color": "Black",
+        "length": 234
+    },
+    {
+        "name": "Sapphire PULSE",
+        "price": 269.99,
+        "chipset": "Radeon RX 7600",
+        "memory": 8,
+        "core_clock": 1720,
+        "boost_clock": 2755,
+        "color": "Black / Red",
+        "length": 240
+    },
+    {
+        "name": "Asus Dual GeForce RTX 3060 V2 OC Edition",
+        "price": 289.99,
+        "chipset": "GeForce RTX 3060 12GB",
+        "memory": 12,
+        "core_clock": 1320,
+        "boost_clock": 1867,
+        "color": "Black",
+        "length": 200
+    },
+    {
+        "name": "Asus ROG STRIX GAMING OC",
+        "price": 1249.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2670,
+        "color": "Black",
+        "length": 358
+    },
+    {
+        "name": "NVIDIA Founders Edition",
+        "price": null,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2550,
+        "color": "Black",
+        "length": 304
+    },
+    {
+        "name": "Gigabyte GAMING OC Rev 2.0",
+        "price": 534.99,
+        "chipset": "GeForce RTX 3070 LHR",
+        "memory": 8,
+        "core_clock": 1500,
+        "boost_clock": 1815,
+        "color": "Black",
+        "length": 286
+    },
+    {
+        "name": "XFX RX-79GMERCB9",
+        "price": 540.53,
+        "chipset": "Radeon RX 7900 GRE",
+        "memory": 16,
+        "core_clock": 1270,
+        "boost_clock": 2395,
+        "color": "Black",
+        "length": 335
+    },
+    {
+        "name": "Gigabyte WINDFORCE OC",
+        "price": 819.99,
+        "chipset": "GeForce RTX 4070 Ti",
+        "memory": 12,
+        "core_clock": 2310,
+        "boost_clock": 2625,
+        "color": "Black / Silver",
+        "length": 261
+    },
+    {
+        "name": "PNY VERTO OC",
+        "price": 999.98,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2565,
+        "color": "Black",
+        "length": 340
+    },
+    {
+        "name": "XFX Speedster SWFT 319 Core",
+        "price": 399.99,
+        "chipset": "Radeon RX 6800",
+        "memory": 16,
+        "core_clock": 1700,
+        "boost_clock": 2105,
+        "color": "Black",
+        "length": 340
+    },
+    {
+        "name": "PowerColor Hellhound",
+        "price": 949.99,
+        "chipset": "Radeon RX 7900 XTX",
+        "memory": 24,
+        "core_clock": 2300,
+        "boost_clock": 2525,
+        "color": "Black",
+        "length": 320
+    },
+    {
+        "name": "ASRock Phantom Gaming OC",
+        "price": 699.99,
+        "chipset": "Radeon RX 7900 XT",
+        "memory": 20,
+        "core_clock": 2000,
+        "boost_clock": 2450,
+        "color": "Black",
+        "length": 330
+    },
+    {
+        "name": "Sapphire PURE",
+        "price": 419.99,
+        "chipset": "Radeon RX 7700 XT",
+        "memory": 12,
+        "core_clock": 1700,
+        "boost_clock": 2584,
+        "color": "White",
+        "length": 320
+    },
+    {
+        "name": "XFX Speedster QICK 319 Core",
+        "price": 499.99,
+        "chipset": "Radeon RX 7800 XT",
+        "memory": 16,
+        "core_clock": 1295,
+        "boost_clock": 2430,
+        "color": "Black",
+        "length": 335
+    },
+    {
+        "name": "MSI GAMING X SLIM",
+        "price": 849.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2685,
+        "color": "Black / Silver",
+        "length": 307
+    },
+    {
+        "name": "ASRock Phantom Gaming OC",
+        "price": 709.99,
+        "chipset": "Radeon RX 7900 XT",
+        "memory": 20,
+        "core_clock": 2000,
+        "boost_clock": 2450,
+        "color": "White",
+        "length": 330
+    },
+    {
+        "name": "MSI VENTUS 3X OC",
+        "price": 619.99,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2520,
+        "color": "Black",
+        "length": 308
+    },
+    {
+        "name": "Asus DUAL",
+        "price": 599.99,
+        "chipset": "GeForce RTX 4070",
+        "memory": 12,
+        "core_clock": 2475,
+        "boost_clock": 2505,
+        "color": "Black",
+        "length": 267
+    },
+    {
+        "name": "MSI SUPRIM LIQUID X",
+        "price": 1899,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2235,
+        "boost_clock": null,
+        "color": "Black / Silver",
+        "length": 280
+    },
+    {
+        "name": "Gigabyte AERO OC",
+        "price": 879.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2655,
+        "color": "White / Silver",
+        "length": 300
+    },
+    {
+        "name": "PowerColor Hellhound OC",
+        "price": 519.99,
+        "chipset": "Radeon RX 7800 XT",
+        "memory": 16,
+        "core_clock": 1295,
+        "boost_clock": 2520,
+        "color": "Black",
+        "length": 322
+    },
+    {
+        "name": "Asus ProArt OC",
+        "price": 509.99,
+        "chipset": "GeForce RTX 4060 Ti",
+        "memory": 16,
+        "core_clock": 2310,
+        "boost_clock": 2685,
+        "color": "Black / Gold",
+        "length": 300
+    },
+    {
+        "name": "Gigabyte EAGLE OC",
+        "price": 304.99,
+        "chipset": "GeForce RTX 4060",
+        "memory": 8,
+        "core_clock": 1830,
+        "boost_clock": null,
+        "color": "Black",
+        "length": 272
+    },
+    {
+        "name": "Asus TUF GAMING OC",
+        "price": 859.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2670,
+        "color": "White",
+        "length": 305
+    },
+    {
+        "name": "XFX Speedster SWFT 210 Core",
+        "price": 259.99,
+        "chipset": "Radeon RX 7600",
+        "memory": 8,
+        "core_clock": 1875,
+        "boost_clock": 2655,
+        "color": "Black",
+        "length": 241
+    },
+    {
+        "name": "Gigabyte AERO OC",
+        "price": 1149.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2595,
+        "color": "White / Silver",
+        "length": 342
+    },
+    {
+        "name": "Gigabyte AERO OC",
+        "price": 427.99,
+        "chipset": "GeForce RTX 4060 Ti",
+        "memory": 8,
+        "core_clock": 2310,
+        "boost_clock": null,
+        "color": "White / Silver",
+        "length": 281
+    },
+    {
+        "name": "Gigabyte AERO OC",
+        "price": 1849.72,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2520,
+        "boost_clock": 2535,
+        "color": "Silver / White",
+        "length": 342
+    },
+    {
+        "name": "Asus TUF GAMING",
+        "price": 2189.98,
+        "chipset": "GeForce RTX 4090",
+        "memory": 24,
+        "core_clock": 2235,
+        "boost_clock": 2550,
+        "color": "Black",
+        "length": 348
+    },
+    {
+        "name": "ASRock Challenger D OC",
+        "price": 239.99,
+        "chipset": "Radeon RX 6600 XT",
+        "memory": 8,
+        "core_clock": 1968,
+        "boost_clock": null,
+        "color": "Black",
+        "length": 269
+    },
+    {
+        "name": "ASRock Radeon RX6700XT CLD 12G",
+        "price": null,
+        "chipset": "Radeon RX 6700 XT",
+        "memory": 12,
+        "core_clock": 2321,
+        "boost_clock": 2581,
+        "color": "Black",
+        "length": 269
+    },
+    {
+        "name": "Sapphire NITRO+",
+        "price": 569.99,
+        "chipset": "Radeon RX 7800 XT",
+        "memory": 16,
+        "core_clock": 1295,
+        "boost_clock": null,
+        "color": "Black",
+        "length": 320
+    },
+    {
+        "name": "MSI VENTUS 2X OC",
+        "price": 304.99,
+        "chipset": "GeForce RTX 4060",
+        "memory": 8,
+        "core_clock": 1830,
+        "boost_clock": 2505,
+        "color": "White / Silver",
+        "length": 199
+    },
+    {
+        "name": "Sapphire PURE",
+        "price": 559.99,
+        "chipset": "Radeon RX 7900 GRE",
+        "memory": 16,
+        "core_clock": 1270,
+        "boost_clock": 2333,
+        "color": "White",
+        "length": 320
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "price": 599,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2565,
+        "color": "Black",
+        "length": 300
+    },
+    {
+        "name": "Asus DUAL OC",
+        "price": 619.99,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2550,
+        "color": "White",
+        "length": 267
+    },
+    {
+        "name": "EVGA FTW3 ULTRA GAMING",
+        "price": 719.99,
+        "chipset": "GeForce RTX 3080 10GB",
+        "memory": 10,
+        "core_clock": 1440,
+        "boost_clock": 1800,
+        "color": "Black",
+        "length": 300
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "price": 1099.99,
+        "chipset": "GeForce RTX 4080 SUPER",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2595,
+        "color": "Black",
+        "length": 342
+    },
+    {
+        "name": "MSI VENTUS XS OC",
+        "price": 299.89,
+        "chipset": "GeForce GTX 1660 SUPER",
+        "memory": 6,
+        "core_clock": 1530,
+        "boost_clock": 1815,
+        "color": "Black / Silver",
+        "length": 204
+    },
+    {
+        "name": "ASRock Challenger",
+        "price": 224.99,
+        "chipset": "Radeon RX 6600",
+        "memory": 8,
+        "core_clock": 1626,
+        "boost_clock": 2491,
+        "color": "White",
+        "length": 269
+    },
+    {
+        "name": "MSI GAMING X SLIM",
+        "price": 703.09,
+        "chipset": "GeForce RTX 4070",
+        "memory": 12,
+        "core_clock": 1920,
+        "boost_clock": 2625,
+        "color": "Black / Gray",
+        "length": 307
+    },
+    {
+        "name": "Zotac GAMING Twin Edge OC",
+        "price": 599.99,
+        "chipset": "GeForce RTX 4070 SUPER",
+        "memory": 12,
+        "core_clock": 1980,
+        "boost_clock": 2490,
+        "color": "Black",
+        "length": 234
+    },
+    {
+        "name": "MSI VENTUS 2X XS OC",
+        "price": 199.99,
+        "chipset": "GeForce RTX 3050 8GB",
+        "memory": 8,
+        "core_clock": 1550,
+        "boost_clock": 1807,
+        "color": "Black / Gray",
+        "length": 205
+    },
+    {
+        "name": "PNY VERTO OC",
+        "price": 799.99,
+        "chipset": "GeForce RTX 4070 Ti SUPER",
+        "memory": 16,
+        "core_clock": 2340,
+        "boost_clock": 2625,
+        "color": "Black",
+        "length": 305
+    },
+    {
+        "name": "ASRock Challenger Pro OC",
+        "price": 379.99,
+        "chipset": "Radeon RX 6750 XT",
+        "memory": 12,
+        "core_clock": 2150,
+        "boost_clock": 2618,
+        "color": "Black",
+        "length": 303
+    },
+    {
+        "name": "NVIDIA Founders Edition",
+        "price": 1389.99,
+        "chipset": "GeForce RTX 4080",
+        "memory": 16,
+        "core_clock": 2210,
+        "boost_clock": 2510,
+        "color": "Black / Silver",
+        "length": 304
+    },
+    {
+        "name": "Zotac GAMING Twin Edge OC",
+        "price": 319.99,
+        "chipset": "GeForce RTX 4060",
+        "memory": 8,
+        "core_clock": 1830,
+        "boost_clock": 2490,
+        "color": "White",
+        "length": 221
+    }
+]

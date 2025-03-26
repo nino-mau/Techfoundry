@@ -1,84 +1,67 @@
 <script setup>
-import { computed } from 'vue';
+// vue
+import { onMounted, markRaw, ref } from 'vue';
 import { useRoute } from 'vue-router';
+
+// primevue
 import Breadcrumb from 'primevue/breadcrumb';
+
+// icons
+import { HomeIcon } from '@heroicons/vue/24/outline';
 
 const route = useRoute();
 
-// Get the breadcrumb items excluding "Home"
-const items = computed(() => {
-    const breadcrumbs = route.meta.breadcrumb || [];
-    // Skip index 0 (Home) only if there are breadcrumbs
-    return breadcrumbs.length > 0 ? breadcrumbs.slice(1) : [];
+//***===== State =====***//
+
+const breadcrumbHomeItem = ref({
+    icon: markRaw(HomeIcon),
+    label: 'HOME',
+    route: '/',
+});
+let breadcrumbItems = ref([]);
+let pageName = ref(route.meta.label);
+
+//***===== Lifecycle =====***//
+
+onMounted(() => {
+    // Update path breadcrumb with route data
+    breadcrumbItems.value.splice(0, breadcrumbItems.value.length, ...route.meta.breadcrumb);
 });
 
-// Force breadcrumb to show even if only home is present
-const homeItem = {
-    label: 'Home',
-    url: '/',
-    icon: 'pi pi-home', // Use PrimeIcons class
-};
+// Get the breadcrumb items excluding "Home"
 </script>
 
 <template>
-    <div class="breadcrumb-container">
-        <Breadcrumb :model="items" :home="homeItem">
-            <!-- Home icon template override using PrimeIcons -->
-            <template #home="{ item, props }">
-                <li v-bind="props.home" class="home-item">
-                    <router-link to="/" class="p-menuitem-link">
-                        <i class="pi pi-home text-secondary" style="font-size: 1.25rem"></i>
-                        <span v-if="false" class="p-menuitem-text">{{ item.label }}</span>
-                    </router-link>
-                </li>
-            </template>
-
-            <!-- Items template -->
+    <div class="flex flex-col justify-center mr-[136px] ml-[136px] mt-[77px]">
+        <Breadcrumb :home="breadcrumbHomeItem" :model="breadcrumbItems" class="text-secondary">
             <template #item="{ item, props }">
-                <router-link v-if="item.route" :to="item.route" custom v-slot="{ navigate, href }">
+                <router-link v-if="item.route" v-slot="{ href, navigate }" :to="item.route" custom>
                     <a :href="href" v-bind="props.action" @click="navigate">
-                        <span class="font-semibold text-primary">{{ item.label }}</span>
+                        <component :is="item.icon" class="w-[24px] text-secondary stroke-[1.7]" />
+                        <span class="text-secondary text-base font-semibold">{{ item.label }}</span>
                     </a>
                 </router-link>
-                <a
-                    v-else
-                    :href="item.url || '#'"
-                    :target="item.target"
-                    v-bind="props.action"
-                    class="cursor-pointer"
-                >
-                    <span class="text-surface-700">{{ item.label }}</span>
-                </a>
+                <!-- <a v-else :href="item.url" :target="item.target" v-bind="props.action">
+                    <span class="text-surface-700 dark:text-surface-0">{{ item.label }}</span>
+                </a> -->
             </template>
         </Breadcrumb>
-
-        <h1 class="text-[60px] text-secondary font-bold">
-            {{ route.meta.title || 'Categories' }}
-        </h1>
+        <h1 class="text-[64px] font-bold text-secondary">{{ pageName }}</h1>
+        <p class="text-base font-medium text-secondary">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisl <br />
+            erat. Proin a elit ac nunc egestas porttitor.
+        </p>
     </div>
 </template>
 
 <style scoped>
-.breadcrumb-container {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+:deep(.p-breadcrumb) {
+    padding: 0;
 }
-
-/* Home item styling */
-:deep(.home-item) {
-    display: flex;
+:deep(.p-breadcrumb-list) {
+    gap: 20px !important;
 }
-
-:deep(.p-menuitem-link) {
-    display: flex;
-    align-items: center;
-}
-
-/* Make sure the home icon is visible */
-:deep(.p-breadcrumb .home-item .pi-home) {
-    display: inline-block;
+:deep(.p-breadcrumb-separator) {
     color: var(--color-secondary);
-    margin-right: 0.5rem;
 }
 </style>

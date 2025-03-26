@@ -21,6 +21,16 @@ return new class extends Migration
             $table->timestamps();
         });
 
+        Schema::create('user_addresses', function (Blueprint $table) {
+            $table->unsignedBigInteger('user_id')->primary();
+            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->string('address');
+            $table->string('city');
+            $table->integer('postal_code');
+            $table->string('country');
+            $table->timestamps();
+        });
+
         Schema::create('password_reset_tokens', function (Blueprint $table) {
             $table->string('email')->primary();
             $table->string('token');
@@ -42,6 +52,7 @@ return new class extends Migration
      */
     public function down(): void
     {
+        Schema::dropIfExists('user_addresses');
         Schema::dropIfExists('users');
         Schema::dropIfExists('password_reset_tokens');
         Schema::dropIfExists('sessions');

@@ -12,7 +12,7 @@ const router = createRouter({
             name: 'home',
             component: HomeView,
             meta: {
-                breadcrumb: [{ label: 'Home', route: '/' }],
+                label: 'Home',
             },
         },
         {
@@ -20,7 +20,8 @@ const router = createRouter({
             name: 'categories',
             component: CategoriesView,
             meta: {
-                breadcrumb: [{ label: 'Home', route: '/' }, { label: 'Categories' }],
+                label: 'Categories',
+                breadcrumb: [{ label: 'CATEGORIES', route: '/categories' }],
             },
         },
     ],
