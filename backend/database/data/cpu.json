@@ -1,77 +1,122 @@
 [
     {
-        "name": "AMD Ryzen 7 9800X3D",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7e2d17b7b777f8b56e1b5119aa97be20.256p.jpg",
-        "price": 499
+        "category_id": 1,
+        "name": "AMD Ryzen 3 3200G Wraith Stealth Edition (3.6 GHz / 4 GHz)",
+        "desc": "Quad-Core 4-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 8 12 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 69.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/36/84/LD0005368402_2.jpg"
     },
     {
-        "name": "AMD Ryzen 5 7600X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/fd6305088c9d16d59017b380fb9c408a.256p.jpg",
-        "price": 299
+        "category_id": 1,
+        "name": "AMD Ryzen 3 4100 Wraith Stealth (3.8 GHz / 4.0 GHz)",
+        "desc": "4-Core 8-Threads processor socket AM4 Cache 6 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 79.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/95/00/LD0005950063.jpg"
     },
     {
-        "name": "AMD Ryzen 7 7800X3D",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/f0e0e59d75066ec825667b71c31e3c83.256p.jpg",
-        "price": 399
+        "category_id": 1,
+        "name": "AMD Ryzen 3 4300G Wraith Stealth (3.8 GHz / 4.0 GHz)",
+        "desc": "4-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 99.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/02/27/LD0006022798.jpg"
     },
     {
-        "name": "AMD Ryzen 5 5600X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/3ef757133d38ac40afe75da691ba7d60.256p.jpg",
-        "price": 259
+        "category_id": 1,
+        "name": "AMD Ryzen 5 3400G  (3.7 GHz / 4.2 GHz)",
+        "desc": "Quad-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 11 12 nm TDP 65W with cooling system (bulk version with fan - 3 years manufacturer warranty)",
+        "price": 84.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/84/LD0006188488.jpg"
     },
     {
-        "name": "AMD Ryzen 7 7700X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/6d3fb7600f26fb1e94e8b0c1a99e0bfa.256p.jpg",
-        "price": 379
+        "category_id": 1,
+        "name": "AMD Ryzen 5 3400G Wraith Spire Edition (3.7 GHz / 4.2 GHz)",
+        "desc": "Quad-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 11 12 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 84.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/36/84/LD0005368463_2.jpg"
     },
     {
-        "name": "AMD Ryzen 7 9700X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/a0f5a161d8c7ff3c6b0827423537a029.256p.jpg",
-        "price": 459
+        "category_id": 1,
+        "name": "AMD Ryzen 5 3600 (3.6 GHz / 4.2 GHz) with fan",
+        "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W (bulk version with fan - 3 years manufacturer warranty)",
+        "price": 79.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/75/54/LD0005755499_1_0005805917.jpg"
     },
     {
-        "name": "AMD Ryzen 5 7600",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/2533affcf07eede7f44393df1704eee8.256p.jpg",
-        "price": 229
+        "category_id": 1,
+        "name": "AMD Ryzen 5 3600 Wraith Stealth (3.6 GHz / 4.2 GHz) Box",
+        "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 79.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/36/84/LD0005368478_2.jpg"
     },
     {
-        "name": "AMD Ryzen 5 5500",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/49fca908d8863ded4df790bd3af6bc12.256p.jpg",
-        "price": 199
+        "category_id": 1,
+        "name": "AMD Ryzen 5 4500 Wraith Stealth  (3.6 GHz / 4.1 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 Cache 11 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 89.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/95/00/LD0005950061.jpg"
     },
     {
-        "name": "AMD Ryzen 5 9600X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8a0df381931efb7323f458cfc42260f8.256p.jpg",
-        "price": 319
+        "category_id": 1,
+        "name": "AMD Ryzen 5 5500 (3.6 GHz / 4.2 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 GameCache 19 Mo 7 nm TDP 65W (tray version without fan - 3 years manufacturer warranty)",
+        "price": 86.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/19/32/LD0006193295.jpg"
     },
     {
-        "name": "AMD Ryzen 9 9950X3D",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c091adac8120c424d3fcf03bec914302.256p.jpg",
-        "price": 549
+        "category_id": 1,
+        "name": "AMD Ryzen 5 5500 Wraith Stealth (3.6 GHz / 4.2 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 GameCache 19 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 109.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/94/44/LD0005944464.jpg"
     },
     {
-        "name": "AMD Ryzen 7 5800X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/9b4cefb2e43f2c358f3a97a31e1be90b.256p.jpg",
-        "price": 329
+        "category_id": 1,
+        "name": "AMD Ryzen 5 5500GT Wraith Stealth (3.6 GHz / 4.4 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 129.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/86/87/LD0005868714_1_0006097231_0006097245.jpg"
     },
     {
-        "name": "Intel Core i9-14900K",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c9117c605854e9387e57cd69ebca2415.256p.jpg",
-        "price": 589
+        "category_id": 1,
+        "name": "AMD Ryzen 5 5600 Wraith Stealth (3.5 GHz / 4.4 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 139.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/94/44/LD0005944466.jpg"
     },
     {
-        "name": "Intel Core i5-12400F",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/5fe3c9cc8cbaaa4aa52aed7389d2cc10.256p.jpg",
-        "price": 179
+        "category_id": 1,
+        "name": "AMD Ryzen 5 5600G Wraith Stealth (3.9 GHz / 4.4 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 164.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/86/87/LD0005868714_1.jpg"
     },
     {
-        "name": "AMD Ryzen 5 5600",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/49fca908d8863ded4df790bd3af6bc12.256p.jpg",
-        "price": 239
+        "category_id": 1,
+        "name": "AMD Ryzen 5 5600GT Wraith Stealth (3.6 GHz / 4.6 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 159.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/86/87/LD0005868714_1_0006097231.jpg"
     },
     {
-        "name": "Intel Core i7-14700K",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c3e5d01cec2fa20b6f47fe8a400c08d6.256p.jpg",
-        "price": 409
+        "category_id": 1,
+        "name": "AMD Ryzen 5 5600T Wraith Stealth (3.7 GHz / 4.5 GHz)",
+        "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
+        "price": 164.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/74/59/LD0005745995_1_0006180481.jpg"
     }
 ]

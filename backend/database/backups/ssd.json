@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Samsung 990 Pro",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/55fb148a837f9e33dfdb095188af8a74.256p.jpg",
+        "price": 100
+    },
+    {
+        "name": "Crucial P3 Plus",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/2830bf3ba317c794ccde742efe4304be.256p.jpg",
+        "price": 60
+    },
+    {
+        "name": "Kingston NV2",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7aa3028d0fc04e0ee3323f474bd349bd.256p.jpg",
+        "price": 45
+    },
+    {
+        "name": "Crucial P3 Plus",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/e28de633eafbdc136277c18fc2acc45f.256p.jpg",
+        "price": 60
+    },
+    {
+        "name": "Samsung 990 Pro",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/242cc7c9d1e07078de3b04029e20dd82.256p.jpg",
+        "price": 100
+    },
+    {
+        "name": "Kingston NV3",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/0a0b12a29d901a2fef4cd49748f3cc54.256p.jpg",
+        "price": 50
+    },
+    {
+        "name": "Western Digital WD_Black SN850X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8e6dbae8a0f3c6572216c8758ce5a0b5.256p.jpg",
+        "price": 110
+    },
+    {
+        "name": "Samsung 990 Pro",
+        "image_url": "https://m.media-amazon.com/images/I/41IWzc1mUwL.jpg",
+        "price": 100
+    },
+    {
+        "name": "Western Digital Black SN770",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8fcb88c883df1ee3563538df639a08c8.256p.jpg",
+        "price": 80
+    },
+    {
+        "name": "Western Digital Black SN770",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/5ab53f4ea70381a66686c52d0b6e05a6.256p.jpg",
+        "price": 80
+    },
+    {
+        "name": "Silicon Power UD90",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/664aadb9f84d7293d083671b43c1f898.256p.jpg",
+        "price": 40
+    },
+    {
+        "name": "Western Digital WD_Black SN850X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8e6dbae8a0f3c6572216c8758ce5a0b5.256p.jpg",
+        "price": 110
+    },
+    {
+        "name": "Samsung 990 EVO Plus",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/e04f7c7b9bb44e66f4518b2d99d5798d.256p.jpg",
+        "price": 120
+    }
+]

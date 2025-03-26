@@ -8,9 +8,6 @@ import Button from 'primevue/button';
 // components
 import NavbarMain from './components/ui/NavbarMain.vue';
 
-// pages
-import HomeView from './views/HomeView.vue';
-
 async function apiTest() {
     try {
         const response = await fetch('http://localhost:8000/test', {

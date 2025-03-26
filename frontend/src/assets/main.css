@@ -1,9 +1,12 @@
-@import 'tailwindcss';
+@import 'tailwindcss' important;
 
 /* Import Fonts */
 @import './fonts/Montserrat/stylesheet.css';
 
 @import 'primeicons/primeicons.css';
+
+/* Import custom css */
+@import './css/custom-hover-effects.css';
 
 /* *,
 *::before,
@@ -50,6 +53,8 @@ body {
 
 #app {
     height: 100vh;
+    display: flex;
+    flex-direction: column;
     max-width: 1400px;
     margin: 0 auto;
 }

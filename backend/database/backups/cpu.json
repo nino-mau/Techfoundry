@@ -1,0 +1,77 @@
+[
+    {
+        "name": "AMD Ryzen 7 9800X3D",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7e2d17b7b777f8b56e1b5119aa97be20.256p.jpg",
+        "price": 499
+    },
+    {
+        "name": "AMD Ryzen 5 7600X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/fd6305088c9d16d59017b380fb9c408a.256p.jpg",
+        "price": 299
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/f0e0e59d75066ec825667b71c31e3c83.256p.jpg",
+        "price": 399
+    },
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/3ef757133d38ac40afe75da691ba7d60.256p.jpg",
+        "price": 259
+    },
+    {
+        "name": "AMD Ryzen 7 7700X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/6d3fb7600f26fb1e94e8b0c1a99e0bfa.256p.jpg",
+        "price": 379
+    },
+    {
+        "name": "AMD Ryzen 7 9700X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/a0f5a161d8c7ff3c6b0827423537a029.256p.jpg",
+        "price": 459
+    },
+    {
+        "name": "AMD Ryzen 5 7600",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/2533affcf07eede7f44393df1704eee8.256p.jpg",
+        "price": 229
+    },
+    {
+        "name": "AMD Ryzen 5 5500",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/49fca908d8863ded4df790bd3af6bc12.256p.jpg",
+        "price": 199
+    },
+    {
+        "name": "AMD Ryzen 5 9600X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8a0df381931efb7323f458cfc42260f8.256p.jpg",
+        "price": 319
+    },
+    {
+        "name": "AMD Ryzen 9 9950X3D",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c091adac8120c424d3fcf03bec914302.256p.jpg",
+        "price": 549
+    },
+    {
+        "name": "AMD Ryzen 7 5800X",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/9b4cefb2e43f2c358f3a97a31e1be90b.256p.jpg",
+        "price": 329
+    },
+    {
+        "name": "Intel Core i9-14900K",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c9117c605854e9387e57cd69ebca2415.256p.jpg",
+        "price": 589
+    },
+    {
+        "name": "Intel Core i5-12400F",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/5fe3c9cc8cbaaa4aa52aed7389d2cc10.256p.jpg",
+        "price": 179
+    },
+    {
+        "name": "AMD Ryzen 5 5600",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/49fca908d8863ded4df790bd3af6bc12.256p.jpg",
+        "price": 239
+    },
+    {
+        "name": "Intel Core i7-14700K",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c3e5d01cec2fa20b6f47fe8a400c08d6.256p.jpg",
+        "price": 409
+    }
+]

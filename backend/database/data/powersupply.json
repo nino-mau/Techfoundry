@@ -1,0 +1,122 @@
+[
+    {
+        "category_id": 4,
+        "name": "B500NM",
+        "desc": "500W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
+        "price": 54.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/19/91/LD0006199115.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Fox Spirit HG 750 80PLUS Gold",
+        "desc": "750W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
+        "price": 114.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/20/08/LD0006200819.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Fox Spirit XT 750 80PLUS Platinum",
+        "desc": "750W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Platinum",
+        "price": 159.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/19/09/LD0006190989.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Fox Spirit HG 650 80PLUS Gold",
+        "desc": "650W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
+        "price": 94.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/19/09/LD0006190962.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Fox Spirit HG 750 White 80PLUS Gold",
+        "desc": "750W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
+        "price": 119.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/26/LD0006182604_0006182634.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Fox Spirit HG 1000 80PLUS Gold",
+        "desc": "1000W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
+        "price": 169.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/08/23/LD0006082340_0006154462.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Fox Spirit HG 850 White 80PLUS Gold",
+        "desc": "850W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
+        "price": 134.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/26/LD0006182604.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Fox Spirit XT 850 80PLUS Platinum",
+        "desc": "850W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Platinum",
+        "price": 174.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/19/09/LD0006190989_0006191012.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Textorm TX350+",
+        "desc": "350W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
+        "price": 44.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/14/61/LD0006146120.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Textorm TX650M+",
+        "desc": "650W Semi-Modular Power Supply ATX 12V with 120 mm Fan - 80PLUS Bronze",
+        "price": 79.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/50/LD0006185053.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Textorm TX750M+",
+        "desc": "750W Semi-Modular Power Supply ATX 12V with 120 mm Fan - 80PLUS Bronze",
+        "price": 89.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/25/LD0006182598.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Textorm TX500+",
+        "desc": "500W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
+        "price": 59.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/14/61/LD0006146146.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Textorm TX650+",
+        "desc": "650W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
+        "price": 64.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/25/LD0006182592.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Aerocool LUX RGB 650M",
+        "desc": "650W Semi-Modular Power Supply ATX/EPS 12V - 80PLUS Bronze",
+        "price": 89.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/45/46/LD0005454683_2_0005454717.jpg"
+    },
+    {
+        "category_id": 4,
+        "name": "Antec GSK 850",
+        "desc": "850W Fully Modular Power Supply ATX 3.1 - 80PLUS Gold",
+        "price": 139.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/84/LD0006218483.jpg"
+    }
+]

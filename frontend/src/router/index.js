@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 
 // pages
 import CategoriesView from '@/views/CategoriesView.vue';
+import ProductsListView from '@/views/ProductsListView.vue';
 import HomeView from '../views/HomeView.vue';
 
 const router = createRouter({
@@ -22,6 +23,15 @@ const router = createRouter({
             meta: {
                 label: 'Categories',
                 breadcrumb: [{ label: 'CATEGORIES', route: '/categories' }],
+            },
+        },
+        {
+            path: '/products',
+            name: 'products',
+            component: ProductsListView,
+            meta: {
+                label: 'Products',
+                breadcrumb: [{ label: 'PRODUCTS', route: '/products' }],
             },
         },
     ],

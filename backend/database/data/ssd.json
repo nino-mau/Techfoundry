@@ -1,67 +1,122 @@
 [
     {
-        "name": "Samsung 990 Pro",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/55fb148a837f9e33dfdb095188af8a74.256p.jpg",
-        "price": 100
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA PLUS G3 1 TB",
+        "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
+        "price": 79.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/11/48/LD0006114829.jpg"
     },
     {
-        "name": "Crucial P3 Plus",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/2830bf3ba317c794ccde742efe4304be.256p.jpg",
-        "price": 60
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA PLUS G3 2 TB",
+        "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
+        "price": 169.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/11/48/LD0006114829_0006114847.jpg"
     },
     {
-        "name": "Kingston NV2",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7aa3028d0fc04e0ee3323f474bd349bd.256p.jpg",
-        "price": 45
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA PLUS G4 1 TB",
+        "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 2.0c - PCIe 5.0 x4",
+        "price": 129.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/20/66/LD0006206681.jpg"
     },
     {
-        "name": "Crucial P3 Plus",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/e28de633eafbdc136277c18fc2acc45f.256p.jpg",
-        "price": 60
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA PLUS G4 2 TB",
+        "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 2.0c - PCIe 5.0 x4",
+        "price": 209.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/20/66/LD0006206681_0006206685.jpg"
     },
     {
-        "name": "Samsung 990 Pro",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/242cc7c9d1e07078de3b04029e20dd82.256p.jpg",
-        "price": 100
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA PRO 2 TB",
+        "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
+        "price": 149.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/11/48/LD0006114866_0006114874.jpg"
     },
     {
-        "name": "Kingston NV3",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/0a0b12a29d901a2fef4cd49748f3cc54.256p.jpg",
-        "price": 50
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA SATA 960 GB",
+        "desc": "SSD 960 GB 3D NAND TLC 2.5\" 7 mm Serial ATA 6Gb/s",
+        "price": 72.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/11/49/LD0006114907_0006114940.jpg"
     },
     {
-        "name": "Western Digital WD_Black SN850X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8e6dbae8a0f3c6572216c8758ce5a0b5.256p.jpg",
-        "price": 110
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA with Heatsink 1 TB",
+        "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4 - with heatsink",
+        "price": 89.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/80/LD0006188076.jpg"
     },
     {
-        "name": "Samsung 990 Pro",
-        "image_url": "https://m.media-amazon.com/images/I/41IWzc1mUwL.jpg",
-        "price": 100
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA with Heatsink 2 TB",
+        "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4 - with heatsink",
+        "price": 149.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/80/LD0006188076_0006188106.jpg"
     },
     {
-        "name": "Western Digital Black SN770",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8fcb88c883df1ee3563538df639a08c8.256p.jpg",
-        "price": 80
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA with Heatsink 4 TB",
+        "desc": "SSD 4 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4 - with heatsink",
+        "price": 294.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/18/80/LD0006188076_0006188106_0006188108.jpg"
     },
     {
-        "name": "Western Digital Black SN770",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/5ab53f4ea70381a66686c52d0b6e05a6.256p.jpg",
-        "price": 80
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA PRO 1 TB",
+        "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
+        "price": 99.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/11/48/LD0006114866.jpg"
     },
     {
-        "name": "Silicon Power UD90",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/664aadb9f84d7293d083671b43c1f898.256p.jpg",
-        "price": 40
+        "category_id": 6,
+        "name": "KIOXIA EXCERIA SATA 480 GB",
+        "desc": "SSD 480 GB 3D NAND TLC 2.5\" 7 mm Serial ATA 6Gb/s",
+        "price": 38.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/11/49/LD0006114907.jpg"
     },
     {
-        "name": "Western Digital WD_Black SN850X",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8e6dbae8a0f3c6572216c8758ce5a0b5.256p.jpg",
-        "price": 110
+        "category_id": 6,
+        "name": "Fox Spirit PM70 PRO M.2 NVMe 1920 GB PCIe 4.0",
+        "desc": "SSD 1920 GB NAND 3D TLC M.2 2280 PCIe 4.0 4x NVMe",
+        "price": 179.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/09/13/LD0006091387_0006091427.jpg"
     },
     {
-        "name": "Samsung 990 EVO Plus",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/e04f7c7b9bb44e66f4518b2d99d5798d.256p.jpg",
-        "price": 120
+        "category_id": 6,
+        "name": "Fox Spirit PM70 PRO M.2 NVMe 960 GB PCIe 4.0",
+        "desc": "SSD 960 GB NAND 3D TLC M.2 2280 PCIe 4.0 4x NVMe",
+        "price": 114.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/09/13/LD0006091387.jpg"
+    },
+    {
+        "category_id": 6,
+        "name": "Textorm BM20 M.2 2280 PCIE NVME 1920 GB",
+        "desc": "SSD 1920 GB NAND 3D TLC M.2 2280 PCI-E 3.0 4x NVMe",
+        "price": 124.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/03/77/LD0006037771.jpg"
+    },
+    {
+        "category_id": 6,
+        "name": "Textorm BM20 M.2 2280 PCIE NVME 480 GB",
+        "desc": "SSD 480 GB NAND 3D TLC M.2 2280 PCI-E 3.0 4x NVMe",
+        "price": 44.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/03/77/LD0006037705.jpg"
     }
 ]

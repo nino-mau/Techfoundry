@@ -1,0 +1,122 @@
+[
+    {
+        "category_id": 5,
+        "name": "Kingston 16 Go DDR4 2666 MHz CL19 2Rx8",
+        "desc": "RAM DDR4 PC4-21300 - KCP426ND8/16",
+        "price": 49.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/04/LD0006210440.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston 16 Go DDR4 3200 MHz CL22 2Rx8",
+        "desc": "RAM DDR4 PC4-25600 - KCP432ND8/16",
+        "price": 49.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/04/LD0006210440_0006210558.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston 16 Go DDR5 5600 MHz CL46 1Rx8",
+        "desc": "RAM DDR5 PC5-44800 - KCP556US8-16",
+        "price": 67.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/05/LD0006210557.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston 32 Go DDR4 3200 MHz CL22 2Rx8",
+        "desc": "RAM DDR4 PC4-25600 - KCP432ND8/32",
+        "price": 89.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/04/LD0006210440_0006210558_0006210559.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston 8 Go DDR4 2666 MHz CL19 1Rx16",
+        "desc": "RAM DDR4 PC4-21300 - KCP426NS6/8",
+        "price": 26.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/07/LD0006210729.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston 8 Go DDR4 2666 MHz CL19 1Rx8",
+        "desc": "RAM DDR4 PC4-21300 - KCP426NS8/8",
+        "price": 27.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/04/LD0006210454_0006210459.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston 8 Go DDR4 3200 MHz CL22 1Rx8",
+        "desc": "RAM DDR4 PC4-25600 - KCP432NS8/8",
+        "price": 28.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/04/LD0006210454_0006210556.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston 8 Go DDR5 5600 MHz CL46 1Rx16",
+        "desc": "RAM DDR5 PC5-44800 - KCP556US6-8",
+        "price": 37.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/04/LD0006210415.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston FURY Beast 128 Go (4 x 32 Go) DDR4 3200 MHz CL16",
+        "desc": "Kit Quad Channel 4 barrettes de RAM DDR4 PC4-25600 - KF432C16BBK4/128",
+        "price": 299.9,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/85/34/LD0005853418_1_0005856567_0005856599_0005856617_0005856651_0005856658.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR4 3200 MHz CL16",
+        "desc": "Kit Dual Channel 2 barrettes de RAM DDR4 PC4-25600 - KF432C16BBK2/16",
+        "price": 47.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/86/98/LD0005869812_1.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR4 3600 MHz CL17",
+        "desc": "Kit Dual Channel 2 barrettes de RAM DDR4 PC4-28800 - KF436C17BBK2/16",
+        "price": 52.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/87/38/LD0005873818_1.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 5200 MHz CL36",
+        "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-41600 - KF552C36BBEK2-16 - Optimis\u00e9 pour AMD",
+        "price": 71.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/90/13/LD0005901337_1_0005914674_0005982161_0006012345_0006012364.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 5600 MHz CL36",
+        "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-44800 - KF556C36BBEK2-16 - Optimis\u00e9 pour AMD",
+        "price": 74.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/90/13/LD0005901337_1_0005914674_0005982161_0006012345.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 6000 MHz CL30",
+        "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 -KF560C30BBK2-16",
+        "price": 83.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/90/13/LD0005901337_1_0005914674_0005914679_0006103689_0006188368.jpg"
+    },
+    {
+        "category_id": 5,
+        "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 6000 MHz CL30",
+        "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - KF560C30BBEK2-16 - Optimis\u00e9 pour AMD",
+        "price": 82.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/90/13/LD0005901337_1_0005914674_0005982161_0005982169_0006012340_0006188412.jpg"
+    }
+]

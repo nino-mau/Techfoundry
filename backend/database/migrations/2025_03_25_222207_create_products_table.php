@@ -23,9 +23,10 @@ return new class extends Migration
             $table->unsignedBigInteger('category_id');
             $table->foreign('category_id')->references('id')->on('categories');
             $table->string('name');
+            $table->string('image_name');
             $table->integer('quantity');
             $table->integer('price');
-            $table->longText('desc');
+            $table->longText('desc')->nullable();
             $table->timestamps();
         });
     }

@@ -1,10 +1,10 @@
 [
     {
-        "name": "Processors",
+        "name": "Processors (CPU)",
         "desc": "Central Processing Units from leading manufacturers like Intel and AMD. Choose from various generations including high-performance gaming processors, workstation-grade CPUs, and budget-friendly options with different core counts and clock speeds."
     },
     {
-        "name": "Graphics Cards",
+        "name": "Graphics Cards (GPU)",
         "desc": "Dedicated graphics processing units for gaming, content creation, and professional visualization. Our selection includes the latest RTX and Radeon series cards with various VRAM capacities, cooling solutions, and performance tiers."
     },
     {
@@ -12,15 +12,15 @@
         "desc": "The foundation of any PC build, available in different form factors (ATX, Micro-ATX, Mini-ITX) and chipsets. Compatible with various CPU sockets and offering different expansion options, connectivity, and overclocking capabilities."
     },
     {
+        "name": "Power Supplies (PSUs)",
+        "desc": "Reliable power supply units with different wattage ratings and efficiency certifications (80 Plus Bronze to Titanium). Available in modular, semi-modular, and non-modular designs to power your entire system safely and efficiently."
+    },
+    {
         "name": "Memory (RAM)",
         "desc": "System memory modules in various capacities, speeds, and configurations. Choose from DDR4 and DDR5 options with different latencies, RGB lighting effects, and performance profiles for gaming and productivity."
     },
     {
-        "name": "Storage Devices",
+        "name": "Solid-State Drive (SSD)",
         "desc": "Data storage solutions including ultra-fast NVMe SSDs, SATA SSDs, and high-capacity HDDs. Options range from high-performance PCIe 4.0 drives to reliable backup storage with various capacities and form factors."
-    },
-    {
-        "name": "Power Supplies (PSUs)",
-        "desc": "Reliable power supply units with different wattage ratings and efficiency certifications (80 Plus Bronze to Titanium). Available in modular, semi-modular, and non-modular designs to power your entire system safely and efficiently."
     }
 ]

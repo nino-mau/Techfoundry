@@ -5,6 +5,8 @@ namespace Database\Seeders;
 use App\Models\User;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Database\Seeders\ProductsSeeder;
+use Database\Seeders\CategoriesSeeder;
 
 class DatabaseSeeder extends Seeder
 {
@@ -18,6 +20,12 @@ class DatabaseSeeder extends Seeder
         User::factory()->create([
             'name' => 'Test User',
             'email' => 'test@example.com',
+        ]);
+
+        // Call other seeders
+        $this->call([
+            CategoriesSeeder::class,
+            ProductsSeeder::class,
         ]);
     }
 }

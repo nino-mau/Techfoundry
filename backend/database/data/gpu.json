@@ -1,62 +1,122 @@
 [
     {
-        "name": "MSI VENTUS 2X BLACK OC",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c89cc9ea2051206aebd4189ddf05f76b.256p.jpg",
-        "price": 330
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 6600 Challenger D 8GB",
+        "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 6600)",
+        "price": 289.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/89/69/LD0005896909_1.jpg"
     },
     {
-        "name": "Gigabyte GAMING OC",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7760e2607e7488a74486e8de8d3162b5.256p.jpg",
-        "price": 350
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 6600 Challenger White 8GB",
+        "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 6600)",
+        "price": 299.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/22/46/LD0006224699.jpg"
     },
     {
-        "name": "NVIDIA Founders Edition",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/6b0f4a7c280559e287c8a35ed24da423.256p.jpg",
-        "price": 400
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 7600 Challenger 8GB",
+        "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7600)",
+        "price": 314.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/04/00/LD0006040071.jpg"
     },
     {
-        "name": "ASRock Challenger D",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c5489241c902a9ae06a42212e978f989.256p.jpg",
-        "price": 320
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 7600 Phantom Gaming 8GB OC",
+        "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7600)",
+        "price": 359.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/04/00/LD0006040072.jpg"
     },
     {
-        "name": "Sapphire PULSE",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/476e6143a031380658f2fdb9d5a2126d.256p.jpg",
-        "price": 360
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 7600 Steel Legend 8GB OC",
+        "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7600)",
+        "price": 359.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/04/00/LD0006040073.jpg"
     },
     {
-        "name": "Gigabyte GAMING OC",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/b537a4618dfe7ddd95ae47d707977a18.256p.jpg",
-        "price": 350
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 7700 XT Challenger 12GB OC",
+        "desc": "12 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7700 XT)",
+        "price": 479.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/06/18/LD0006061889.jpg"
     },
     {
-        "name": "Asus Dual GeForce RTX 3060 V2 OC Edition",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/a6cfb4e58daecb7b49fb19b0f5268a56.256p.jpg",
-        "price": 380
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 7700 XT Steel Legend 12GB OC",
+        "desc": "12 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7700 XT)",
+        "price": 549.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/06/22/LD0006062268.jpg"
     },
     {
-        "name": "Gigabyte WINDFORCE OC",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/772cce097c55469671a0d75ea4aca83a.256p.jpg",
-        "price": 340
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 9070 Steel Legend 16GB",
+        "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 9070)",
+        "price": 829.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/22/42/LD0006224211.jpg"
     },
     {
-        "name": "MSI GeForce RTX 3060 Ventus 2X 12G",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/dbc81b89efc82ce66fb2e3ab7e0f0658.256p.jpg",
-        "price": 360
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 9070 XT Taichi 16GB",
+        "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 9070 XT)",
+        "price": 929.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219813.jpg"
     },
     {
-        "name": "Gigabyte GAMING OC",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7286e3994f72346993fa78135c86ddbe.256p.jpg",
-        "price": 350
+        "category_id": 2,
+        "name": "ASRock Intel Arc A750 Challenger SE 8GB OC",
+        "desc": "8 GB GDDR6 - Dual HDMI/Dual DisplayPort - PCI Express (Intel Arc A750)",
+        "price": 274.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/20/22/LD0006202220.jpg"
     },
     {
-        "name": "Gigabyte GAMING OC",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/4255608ed3c98ddaaf0dc26bc7d2c982.256p.jpg",
-        "price": 350
+        "category_id": 2,
+        "name": "ASRock Intel Arc A770 Challenger SE 16GB",
+        "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (Intel Arc A770)",
+        "price": 379.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/13/LD0006211366.jpg"
     },
     {
-        "name": "Sapphire NITRO+",
-        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/23fd96b38928aff52539943cda8c793a.256p.jpg",
-        "price": 370
+        "category_id": 2,
+        "name": "ASRock Intel Arc B570 Challenger 10GB OC",
+        "desc": "10 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (Intel Arc B570)",
+        "price": 319.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/19/55/LD0006195581.jpg"
+    },
+    {
+        "category_id": 2,
+        "name": "ASRock Intel Arc B580 Challenger 12GB OC",
+        "desc": "12 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (Intel Arc B580)",
+        "price": 359.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/19/56/LD0006195623.jpg"
+    },
+    {
+        "category_id": 2,
+        "name": "ASRock Radeon RX 6400 Challenger ITX 4GB",
+        "desc": "4 GB GDDR6 - HDMI/DisplayPort - PCI Express (AMD Radeon RX 6400)",
+        "price": 159.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/05/94/76/LD0005947668.jpg"
+    },
+    {
+        "category_id": 2,
+        "name": "ASRock AMD Radeon RX 9070 Challenger 16GB",
+        "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 9070)",
+        "price": 779.95,
+        "quantity": 100,
+        "image_name": "https://media.ldlc.com/r150/ld/products/00/06/21/97/LD0006219774.jpg"
     }
 ]

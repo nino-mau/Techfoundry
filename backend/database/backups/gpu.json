@@ -1,0 +1,74 @@
+[
+    {
+        "name": "MSI VENTUS 2X BLACK OC",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c89cc9ea2051206aebd4189ddf05f76b.256p.jpg",
+        "price": 330,
+        "description": "Dual fan GPU with efficient cooling and factory overclocked performance. Perfect for mid-range gaming builds."
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7760e2607e7488a74486e8de8d3162b5.256p.jpg",
+        "price": 350,
+        "description": "Triple fan design with RGB lighting and enhanced cooling solution. Delivers reliable performance for gaming enthusiasts."
+    },
+    {
+        "name": "NVIDIA Founders Edition",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/6b0f4a7c280559e287c8a35ed24da423.256p.jpg",
+        "price": 400,
+        "description": "Official NVIDIA reference design featuring sleek aesthetics and premium build quality. Balanced thermal performance and noise levels."
+    },
+    {
+        "name": "ASRock Challenger D",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/c5489241c902a9ae06a42212e978f989.256p.jpg",
+        "price": 320,
+        "description": "Budget-friendly option with dual fan cooling. Provides solid 1080p gaming performance with good value."
+    },
+    {
+        "name": "Sapphire PULSE",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/476e6143a031380658f2fdb9d5a2126d.256p.jpg",
+        "price": 360,
+        "description": "Robust cooling solution with durable components. Known for reliability and excellent thermal performance."
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/b537a4618dfe7ddd95ae47d707977a18.256p.jpg",
+        "price": 350,
+        "description": "Feature-rich GPU with customizable RGB and enhanced power delivery. Ideal for gamers seeking performance and aesthetics."
+    },
+    {
+        "name": "Asus Dual GeForce RTX 3060 V2 OC Edition",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/a6cfb4e58daecb7b49fb19b0f5268a56.256p.jpg",
+        "price": 380,
+        "description": "Optimized dual-fan cooling with axial-tech fan design. Factory overclocked for superior gaming performance."
+    },
+    {
+        "name": "Gigabyte WINDFORCE OC",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/772cce097c55469671a0d75ea4aca83a.256p.jpg",
+        "price": 340,
+        "description": "Unique alternate spinning fan design minimizing turbulence. Compact size suitable for smaller cases."
+    },
+    {
+        "name": "MSI GeForce RTX 3060 Ventus 2X 12G",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/dbc81b89efc82ce66fb2e3ab7e0f0658.256p.jpg",
+        "price": 360,
+        "description": "Compact design with TORX Fan 3.0 technology. Good balance of performance and thermals for mainstream gaming."
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/7286e3994f72346993fa78135c86ddbe.256p.jpg",
+        "price": 350,
+        "description": "Robust cooling with WindForce 3X cooling system. Features RGB Fusion 2.0 for customizable lighting effects."
+    },
+    {
+        "name": "Gigabyte GAMING OC",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/4255608ed3c98ddaaf0dc26bc7d2c982.256p.jpg",
+        "price": 350,
+        "description": "Efficient triple-fan cooling with protective backplate. Offers stable performance for AAA gaming titles."
+    },
+    {
+        "name": "Sapphire NITRO+",
+        "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/23fd96b38928aff52539943cda8c793a.256p.jpg",
+        "price": 370,
+        "description": "Premium build quality with dual BIOS and efficient cooling. Enhanced power delivery for stable overclocking potential."
+    }
+]

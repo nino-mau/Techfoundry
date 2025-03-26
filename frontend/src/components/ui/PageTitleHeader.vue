@@ -36,8 +36,11 @@ onMounted(() => {
         <Breadcrumb :home="breadcrumbHomeItem" :model="breadcrumbItems" class="text-secondary">
             <template #item="{ item, props }">
                 <router-link v-if="item.route" v-slot="{ href, navigate }" :to="item.route" custom>
-                    <a :href="href" v-bind="props.action" @click="navigate">
-                        <component :is="item.icon" class="w-[24px] text-secondary stroke-[1.7]" />
+                    <a :href="href" v-bind="props.action" @click="navigate" class="breadcrumb-link">
+                        <component
+                            :is="item.icon"
+                            class="w-[24px] text-secondary stroke-[1.7] relative top-[-1px]"
+                        />
                         <span class="text-secondary text-base font-semibold">{{ item.label }}</span>
                     </a>
                 </router-link>
@@ -55,6 +58,7 @@ onMounted(() => {
 </template>
 
 <style scoped>
+/* Custom style for breadcrumb component */
 :deep(.p-breadcrumb) {
     padding: 0;
 }
@@ -63,5 +67,11 @@ onMounted(() => {
 }
 :deep(.p-breadcrumb-separator) {
     color: var(--color-secondary);
+}
+
+/* Hover for breadcrumb link */
+.breadcrumb-link:hover,
+.breadcrumb-link:hover span {
+    text-decoration: underline;
 }
 </style>
