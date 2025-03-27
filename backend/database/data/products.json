@@ -4,7 +4,8 @@
         "name": "AMD Ryzen 3 3200G Wraith Stealth Edition (3.6 GHz / 4 GHz)",
         "desc": "Quad-Core 4-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 8 12 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 69.95,
-        "quantity": 100,
+        "quantity": 92,
+        "rating": 3,
         "image_name": "cpu-1.webp"
     },
     {
@@ -12,7 +13,8 @@
         "name": "AMD Ryzen 3 4100 Wraith Stealth (3.8 GHz / 4.0 GHz)",
         "desc": "4-Core 8-Threads processor socket AM4 Cache 6 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 79.95,
-        "quantity": 100,
+        "quantity": 98,
+        "rating": 1,
         "image_name": "cpu-2.webp"
     },
     {
@@ -20,7 +22,8 @@
         "name": "AMD Ryzen 3 4300G Wraith Stealth (3.8 GHz / 4.0 GHz)",
         "desc": "4-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 99.95,
-        "quantity": 100,
+        "quantity": 81,
+        "rating": 4,
         "image_name": "cpu-3.webp"
     },
     {
@@ -29,6 +32,7 @@
         "desc": "Quad-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 11 12 nm TDP 65W with cooling system (bulk version with fan - 3 years manufacturer warranty)",
         "price": 84.95,
         "quantity": 100,
+        "rating": 2,
         "image_name": "cpu-4.webp"
     },
     {
@@ -36,7 +40,8 @@
         "name": "AMD Ryzen 5 3400G Wraith Spire Edition (3.7 GHz / 4.2 GHz)",
         "desc": "Quad-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 11 12 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 84.95,
-        "quantity": 100,
+        "quantity": 15,
+        "rating": 0,
         "image_name": "cpu-5.webp"
     },
     {
@@ -44,7 +49,8 @@
         "name": "AMD Ryzen 5 3600 (3.6 GHz / 4.2 GHz) with fan",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W (bulk version with fan - 3 years manufacturer warranty)",
         "price": 79.95,
-        "quantity": 100,
+        "quantity": 12,
+        "rating": 5,
         "image_name": "cpu-6.webp"
     },
     {
@@ -52,7 +58,8 @@
         "name": "AMD Ryzen 5 3600 Wraith Stealth (3.6 GHz / 4.2 GHz) Box",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 79.95,
-        "quantity": 100,
+        "quantity": 84,
+        "rating": 3,
         "image_name": "cpu-7.webp"
     },
     {
@@ -60,7 +67,8 @@
         "name": "AMD Ryzen 5 4500 Wraith Stealth  (3.6 GHz / 4.1 GHz)",
         "desc": "6-Core 12-Threads processor socket AM4 Cache 11 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 89.95,
-        "quantity": 100,
+        "quantity": 95,
+        "rating": 2,
         "image_name": "cpu-8.webp"
     },
     {
@@ -68,7 +76,8 @@
         "name": "AMD Ryzen 5 5500 (3.6 GHz / 4.2 GHz)",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 19 Mo 7 nm TDP 65W (tray version without fan - 3 years manufacturer warranty)",
         "price": 86.95,
-        "quantity": 100,
+        "quantity": 77,
+        "rating": 4,
         "image_name": "cpu-9.webp"
     },
     {
@@ -76,7 +85,8 @@
         "name": "AMD Ryzen 5 5500 Wraith Stealth (3.6 GHz / 4.2 GHz)",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 19 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 109.9,
-        "quantity": 100,
+        "quantity": 93,
+        "rating": 1,
         "image_name": "cpu-10.webp"
     },
     {
@@ -84,7 +94,8 @@
         "name": "AMD Ryzen 5 5500GT Wraith Stealth (3.6 GHz / 4.4 GHz)",
         "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 129.9,
-        "quantity": 100,
+        "quantity": 5,
+        "rating": 3,
         "image_name": "cpu-11.webp"
     },
     {
@@ -92,7 +103,8 @@
         "name": "AMD Ryzen 5 5600 Wraith Stealth (3.5 GHz / 4.4 GHz)",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 139.9,
-        "quantity": 100,
+        "quantity": 97,
+        "rating": 0,
         "image_name": "cpu-12.webp"
     },
     {
@@ -101,6 +113,7 @@
         "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 164.9,
         "quantity": 100,
+        "rating": 5,
         "image_name": "cpu-13.webp"
     },
     {
@@ -108,7 +121,8 @@
         "name": "AMD Ryzen 5 5600GT Wraith Stealth (3.6 GHz / 4.6 GHz)",
         "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 159.9,
-        "quantity": 100,
+        "quantity": 78,
+        "rating": 2,
         "image_name": "cpu-14.webp"
     },
     {
@@ -116,7 +130,8 @@
         "name": "AMD Ryzen 5 5600T Wraith Stealth (3.7 GHz / 4.5 GHz)",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 164.9,
-        "quantity": 100,
+        "quantity": 91,
+        "rating": 4,
         "image_name": "cpu-15.webp"
     },
     {
@@ -124,7 +139,8 @@
         "name": "ASRock AMD Radeon RX 6600 Challenger D 8GB",
         "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 6600)",
         "price": 289.95,
-        "quantity": 100,
+        "quantity": 89,
+        "rating": 1,
         "image_name": "gpu-1.webp"
     },
     {
@@ -132,7 +148,8 @@
         "name": "ASRock AMD Radeon RX 6600 Challenger White 8GB",
         "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 6600)",
         "price": 299.95,
-        "quantity": 100,
+        "quantity": 8,
+        "rating": 3,
         "image_name": "gpu-2.webp"
     },
     {
@@ -140,7 +157,8 @@
         "name": "ASRock AMD Radeon RX 7600 Challenger 8GB",
         "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7600)",
         "price": 314.95,
-        "quantity": 100,
+        "quantity": 72,
+        "rating": 0,
         "image_name": "gpu-3.webp"
     },
     {
@@ -148,7 +166,8 @@
         "name": "ASRock AMD Radeon RX 7600 Phantom Gaming 8GB OC",
         "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7600)",
         "price": 359.95,
-        "quantity": 100,
+        "quantity": 66,
+        "rating": 5,
         "image_name": "gpu-4.webp"
     },
     {
@@ -156,7 +175,8 @@
         "name": "ASRock AMD Radeon RX 7600 Steel Legend 8GB OC",
         "desc": "8 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7600)",
         "price": 359.95,
-        "quantity": 100,
+        "quantity": 96,
+        "rating": 2,
         "image_name": "gpu-5.webp"
     },
     {
@@ -165,6 +185,7 @@
         "desc": "12 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7700 XT)",
         "price": 479.95,
         "quantity": 100,
+        "rating": 4,
         "image_name": "gpu-6.webp"
     },
     {
@@ -172,7 +193,8 @@
         "name": "ASRock AMD Radeon RX 7700 XT Steel Legend 12GB OC",
         "desc": "12 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 7700 XT)",
         "price": 549.95,
-        "quantity": 100,
+        "quantity": 82,
+        "rating": 1,
         "image_name": "gpu-7.webp"
     },
     {
@@ -181,6 +203,7 @@
         "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 9070)",
         "price": 829.95,
         "quantity": 100,
+        "rating": 3,
         "image_name": "gpu-8.webp"
     },
     {
@@ -188,7 +211,8 @@
         "name": "ASRock AMD Radeon RX 9070 XT Taichi 16GB",
         "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 9070 XT)",
         "price": 929.95,
-        "quantity": 100,
+        "quantity": 75,
+        "rating": 0,
         "image_name": "gpu-9.webp"
     },
     {
@@ -196,7 +220,8 @@
         "name": "ASRock Intel Arc A750 Challenger SE 8GB OC",
         "desc": "8 GB GDDR6 - Dual HDMI/Dual DisplayPort - PCI Express (Intel Arc A750)",
         "price": 274.95,
-        "quantity": 100,
+        "quantity": 99,
+        "rating": 5,
         "image_name": "gpu-10.webp"
     },
     {
@@ -204,7 +229,8 @@
         "name": "ASRock Intel Arc A770 Challenger SE 16GB",
         "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (Intel Arc A770)",
         "price": 379.95,
-        "quantity": 100,
+        "quantity": 62,
+        "rating": 2,
         "image_name": "gpu-11.webp"
     },
     {
@@ -212,7 +238,8 @@
         "name": "ASRock Intel Arc B570 Challenger 10GB OC",
         "desc": "10 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (Intel Arc B570)",
         "price": 319.95,
-        "quantity": 100,
+        "quantity": 94,
+        "rating": 4,
         "image_name": "gpu-12.webp"
     },
     {
@@ -221,6 +248,7 @@
         "desc": "12 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (Intel Arc B580)",
         "price": 359.95,
         "quantity": 100,
+        "rating": 1,
         "image_name": "gpu-13.webp"
     },
     {
@@ -228,7 +256,8 @@
         "name": "ASRock Radeon RX 6400 Challenger ITX 4GB",
         "desc": "4 GB GDDR6 - HDMI/DisplayPort - PCI Express (AMD Radeon RX 6400)",
         "price": 159.95,
-        "quantity": 100,
+        "quantity": 6,
+        "rating": 3,
         "image_name": "gpu-14.webp"
     },
     {
@@ -236,7 +265,8 @@
         "name": "ASRock AMD Radeon RX 9070 Challenger 16GB",
         "desc": "16 GB GDDR6 - HDMI/Triple DisplayPort - PCI Express (AMD Radeon RX 9070)",
         "price": 779.95,
-        "quantity": 100,
+        "quantity": 90,
+        "rating": 0,
         "image_name": "gpu-15.webp"
     },
     {
@@ -244,7 +274,8 @@
         "name": "ASUS PRIME B850-PLUS WIFI",
         "desc": "ATX motherboard Socket AM5 AMD B850 - 4x DDR5 - M.2 PCIe 5.0 - USB 3.1 - PCI-Express 5.0 16x - LAN 2.5 GbE - Wi-Fi 6E/Bluetooth 5.3",
         "price": 269.95,
-        "quantity": 100,
+        "quantity": 83,
+        "rating": 5,
         "image_name": "motherboard-1.webp"
     },
     {
@@ -252,7 +283,8 @@
         "name": "ASUS PRIME X870-P",
         "desc": "ATX motherboard Socket AM5 AMD X870 - 4x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 2.5 GbE",
         "price": 314.95,
-        "quantity": 100,
+        "quantity": 9,
+        "rating": 2,
         "image_name": "motherboard-2.webp"
     },
     {
@@ -260,7 +292,8 @@
         "name": "ASUS PRIME X870-P WIFI",
         "desc": "ATX motherboard Socket AM5 AMD X870 - 4x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 329.95,
-        "quantity": 100,
+        "quantity": 71,
+        "rating": 4,
         "image_name": "motherboard-3.webp"
     },
     {
@@ -268,7 +301,8 @@
         "name": "ASUS ROG CROSSHAIR X870E HERO",
         "desc": "ATX motherboard Socket AM5 AMD X870E - 4x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 749.95,
-        "quantity": 100,
+        "quantity": 88,
+        "rating": 1,
         "image_name": "motherboard-4.webp"
     },
     {
@@ -276,7 +310,8 @@
         "name": "ASUS ROG STRIX B850-A GAMING WIFI",
         "desc": "ATX motherboard Socket AM5 AMD B850 - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 329.95,
-        "quantity": 100,
+        "quantity": 96,
+        "rating": 3,
         "image_name": "motherboard-5.webp"
     },
     {
@@ -284,7 +319,8 @@
         "name": "ASUS ROG STRIX B850-E GAMING WIFI",
         "desc": "ATX motherboard Socket AM5 AMD B850 - 4x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 439.95,
-        "quantity": 100,
+        "quantity": 7,
+        "rating": 0,
         "image_name": "motherboard-6.webp"
     },
     {
@@ -292,7 +328,8 @@
         "name": "ASUS ROG STRIX B850-F GAMING WIFI",
         "desc": "ATX motherboard Socket AM5 AMD B850 - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 359.95,
-        "quantity": 100,
+        "quantity": 58,
+        "rating": 5,
         "image_name": "motherboard-7.webp"
     },
     {
@@ -300,7 +337,8 @@
         "name": "ASUS ROG STRIX B850-I GAMING WIFI",
         "desc": "Mini ITX motherboard Socket AM5 AMD B850 - 2x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 375.95,
-        "quantity": 100,
+        "quantity": 99,
+        "rating": 2,
         "image_name": "motherboard-8.webp"
     },
     {
@@ -308,7 +346,8 @@
         "name": "ASUS ROG STRIX X870-A GAMING WIFI",
         "desc": "ATX motherboard Socket AM5 AMD X870 - 4x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 479.95,
-        "quantity": 100,
+        "quantity": 86,
+        "rating": 4,
         "image_name": "motherboard-9.webp"
     },
     {
@@ -316,7 +355,8 @@
         "name": "ASUS ROG STRIX X870-F GAMING WIFI",
         "desc": "ATX motherboard Socket AM5 AMD X870 - 4x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 489.95,
-        "quantity": 100,
+        "quantity": 93,
+        "rating": 1,
         "image_name": "motherboard-10.webp"
     },
     {
@@ -324,7 +364,8 @@
         "name": "ASUS ROG STRIX X870-I GAMING WIFI",
         "desc": "Mini ITX motherboard Socket AM5 AMD X870 - 2x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 539.95,
-        "quantity": 100,
+        "quantity": 97,
+        "rating": 3,
         "image_name": "motherboard-11.webp"
     },
     {
@@ -332,7 +373,8 @@
         "name": "ASUS ROG STRIX X870E-E GAMING WIFI",
         "desc": "ATX motherboard Socket AM5 AMD X870E - 4x DDR5 - M.2 PCIe 5.0 - USB4 - PCI-Express 5.0 16x - LAN 5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 599.95,
-        "quantity": 100,
+        "quantity": 80,
+        "rating": 0,
         "image_name": "motherboard-12.webp"
     },
     {
@@ -340,7 +382,8 @@
         "name": "ASUS TUF GAMING B850-PLUS WIFI",
         "desc": "ATX motherboard Socket AM5 AMD B850 - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 7/Bluetooth 5.4",
         "price": 294.95,
-        "quantity": 100,
+        "quantity": 64,
+        "rating": 5,
         "image_name": "motherboard-13.webp"
     },
     {
@@ -348,7 +391,8 @@
         "name": "ASUS TUF GAMING B850M-PLUS",
         "desc": "Micro ATX motherboard Socket AM5 AMD B850 - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5 GbE",
         "price": 255.95,
-        "quantity": 100,
+        "quantity": 4,
+        "rating": 2,
         "image_name": "motherboard-14.webp"
     },
     {
@@ -356,7 +400,8 @@
         "name": "ASUS TUF GAMING B850M-PLUS WIFI",
         "desc": "Micro ATX motherboard Socket AM5 AMD B850 - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5 GbE + Wi-Fi 6E/Bluetooth 5.3",
         "price": 269.95,
-        "quantity": 100,
+        "quantity": 94,
+        "rating": 4,
         "image_name": "motherboard-15.webp"
     },
     {
@@ -364,7 +409,8 @@
         "name": "B500NM",
         "desc": "500W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
         "price": 54.95,
-        "quantity": 100,
+        "quantity": 70,
+        "rating": 1,
         "image_name": "powersupply-1.webp"
     },
     {
@@ -372,7 +418,8 @@
         "name": "Fox Spirit HG 750 80PLUS Gold",
         "desc": "750W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
         "price": 114.95,
-        "quantity": 100,
+        "quantity": 98,
+        "rating": 3,
         "image_name": "powersupply-2.webp"
     },
     {
@@ -380,7 +427,8 @@
         "name": "Fox Spirit XT 750 80PLUS Platinum",
         "desc": "750W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Platinum",
         "price": 159.95,
-        "quantity": 100,
+        "quantity": 85,
+        "rating": 0,
         "image_name": "powersupply-3.webp"
     },
     {
@@ -388,7 +436,8 @@
         "name": "Fox Spirit HG 650 80PLUS Gold",
         "desc": "650W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
         "price": 94.95,
-        "quantity": 100,
+        "quantity": 73,
+        "rating": 5,
         "image_name": "powersupply-4.webp"
     },
     {
@@ -396,7 +445,8 @@
         "name": "Fox Spirit HG 750 White 80PLUS Gold",
         "desc": "750W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
         "price": 119.95,
-        "quantity": 100,
+        "quantity": 90,
+        "rating": 2,
         "image_name": "powersupply-5.webp"
     },
     {
@@ -404,7 +454,8 @@
         "name": "Fox Spirit HG 1000 80PLUS Gold",
         "desc": "1000W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
         "price": 169.95,
-        "quantity": 100,
+        "quantity": 99,
+        "rating": 4,
         "image_name": "powersupply-6.webp"
     },
     {
@@ -412,7 +463,8 @@
         "name": "Fox Spirit HG 850 White 80PLUS Gold",
         "desc": "850W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Gold",
         "price": 134.95,
-        "quantity": 100,
+        "quantity": 8,
+        "rating": 1,
         "image_name": "powersupply-7.webp"
     },
     {
@@ -420,7 +472,8 @@
         "name": "Fox Spirit XT 850 80PLUS Platinum",
         "desc": "850W Fully Modular Power Supply ATX12V 3.1 - 80PLUS Platinum",
         "price": 174.95,
-        "quantity": 100,
+        "quantity": 95,
+        "rating": 3,
         "image_name": "powersupply-8.webp"
     },
     {
@@ -428,7 +481,8 @@
         "name": "Textorm TX350+",
         "desc": "350W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
         "price": 44.95,
-        "quantity": 100,
+        "quantity": 1,
+        "rating": 0,
         "image_name": "powersupply-9.webp"
     },
     {
@@ -436,7 +490,8 @@
         "name": "Textorm TX650M+",
         "desc": "650W Semi-Modular Power Supply ATX 12V with 120 mm Fan - 80PLUS Bronze",
         "price": 79.95,
-        "quantity": 100,
+        "quantity": 92,
+        "rating": 5,
         "image_name": "powersupply-10.webp"
     },
     {
@@ -444,7 +499,8 @@
         "name": "Textorm TX750M+",
         "desc": "750W Semi-Modular Power Supply ATX 12V with 120 mm Fan - 80PLUS Bronze",
         "price": 89.95,
-        "quantity": 100,
+        "quantity": 79,
+        "rating": 2,
         "image_name": "powersupply-11.webp"
     },
     {
@@ -452,7 +508,8 @@
         "name": "Textorm TX500+",
         "desc": "500W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
         "price": 59.95,
-        "quantity": 100,
+        "quantity": 88,
+        "rating": 4,
         "image_name": "powersupply-12.webp"
     },
     {
@@ -460,7 +517,8 @@
         "name": "Textorm TX650+",
         "desc": "650W ATX 12V Power Supply with 120 mm Fan - 80PLUS Bronze",
         "price": 64.95,
-        "quantity": 100,
+        "quantity": 5,
+        "rating": 1,
         "image_name": "powersupply-13.webp"
     },
     {
@@ -468,7 +526,8 @@
         "name": "Aerocool LUX RGB 650M",
         "desc": "650W Semi-Modular Power Supply ATX/EPS 12V - 80PLUS Bronze",
         "price": 89.95,
-        "quantity": 100,
+        "quantity": 81,
+        "rating": 3,
         "image_name": "powersupply-14.webp"
     },
     {
@@ -476,7 +535,8 @@
         "name": "Antec GSK 850",
         "desc": "850W Fully Modular Power Supply ATX 3.1 - 80PLUS Gold",
         "price": 139.95,
-        "quantity": 100,
+        "quantity": 68,
+        "rating": 0,
         "image_name": "powersupply-15.webp"
     },
     {
@@ -484,7 +544,8 @@
         "name": "Kingston 16 Go DDR4 2666 MHz CL19 2Rx8",
         "desc": "RAM DDR4 PC4-21300 - KCP426ND8/16",
         "price": 49.95,
-        "quantity": 100,
+        "quantity": 94,
+        "rating": 5,
         "image_name": "ram-1.webp"
     },
     {
@@ -492,7 +553,8 @@
         "name": "Kingston 16 Go DDR4 3200 MHz CL22 2Rx8",
         "desc": "RAM DDR4 PC4-25600 - KCP432ND8/16",
         "price": 49.95,
-        "quantity": 100,
+        "quantity": 2,
+        "rating": 2,
         "image_name": "ram-2.webp"
     },
     {
@@ -500,7 +562,8 @@
         "name": "Kingston 16 Go DDR5 5600 MHz CL46 1Rx8",
         "desc": "RAM DDR5 PC5-44800 - KCP556US8-16",
         "price": 67.95,
-        "quantity": 100,
+        "quantity": 74,
+        "rating": 4,
         "image_name": "ram-3.webp"
     },
     {
@@ -508,7 +571,8 @@
         "name": "Kingston 32 Go DDR4 3200 MHz CL22 2Rx8",
         "desc": "RAM DDR4 PC4-25600 - KCP432ND8/32",
         "price": 89.95,
-        "quantity": 100,
+        "quantity": 10,
+        "rating": 1,
         "image_name": "ram-4.webp"
     },
     {
@@ -516,7 +580,8 @@
         "name": "Kingston 8 Go DDR4 2666 MHz CL19 1Rx16",
         "desc": "RAM DDR4 PC4-21300 - KCP426NS6/8",
         "price": 26.95,
-        "quantity": 100,
+        "quantity": 97,
+        "rating": 3,
         "image_name": "ram-5.webp"
     },
     {
@@ -524,7 +589,8 @@
         "name": "Kingston 8 Go DDR4 2666 MHz CL19 1Rx8",
         "desc": "RAM DDR4 PC4-21300 - KCP426NS8/8",
         "price": 27.95,
-        "quantity": 100,
+        "quantity": 85,
+        "rating": 2,
         "image_name": "ram-6.webp"
     },
     {
@@ -532,7 +598,8 @@
         "name": "Kingston 8 Go DDR4 3200 MHz CL22 1Rx8",
         "desc": "RAM DDR4 PC4-25600 - KCP432NS8/8",
         "price": 28.95,
-        "quantity": 100,
+        "quantity": 73,
+        "rating": 4,
         "image_name": "ram-7.webp"
     },
     {
@@ -540,7 +607,8 @@
         "name": "Kingston 8 Go DDR5 5600 MHz CL46 1Rx16",
         "desc": "RAM DDR5 PC5-44800 - KCP556US6-8",
         "price": 37.95,
-        "quantity": 100,
+        "quantity": 2,
+        "rating": 1,
         "image_name": "ram-8.webp"
     },
     {
@@ -548,7 +616,8 @@
         "name": "Kingston FURY Beast 128 Go (4 x 32 Go) DDR4 3200 MHz CL16",
         "desc": "Kit Quad Channel 4 barrettes de RAM DDR4 PC4-25600 - KF432C16BBK4/128",
         "price": 299.9,
-        "quantity": 100,
+        "quantity": 99,
+        "rating": 3,
         "image_name": "ram-9.webp"
     },
     {
@@ -556,7 +625,8 @@
         "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR4 3200 MHz CL16",
         "desc": "Kit Dual Channel 2 barrettes de RAM DDR4 PC4-25600 - KF432C16BBK2/16",
         "price": 47.95,
-        "quantity": 100,
+        "quantity": 7,
+        "rating": 5,
         "image_name": "ram-10.webp"
     },
     {
@@ -564,7 +634,8 @@
         "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR4 3600 MHz CL17",
         "desc": "Kit Dual Channel 2 barrettes de RAM DDR4 PC4-28800 - KF436C17BBK2/16",
         "price": 52.95,
-        "quantity": 100,
+        "quantity": 81,
+        "rating": 0,
         "image_name": "ram-11.webp"
     },
     {
@@ -572,7 +643,8 @@
         "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 5200 MHz CL36",
         "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-41600 - KF552C36BBEK2-16 - Optimisé pour AMD",
         "price": 71.95,
-        "quantity": 100,
+        "quantity": 64,
+        "rating": 3,
         "image_name": "ram-12.webp"
     },
     {
@@ -580,7 +652,8 @@
         "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 5600 MHz CL36",
         "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-44800 - KF556C36BBEK2-16 - Optimisé pour AMD",
         "price": 74.95,
-        "quantity": 100,
+        "quantity": 92,
+        "rating": 1,
         "image_name": "ram-13.webp"
     },
     {
@@ -588,7 +661,8 @@
         "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 6000 MHz CL30",
         "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 -KF560C30BBK2-16",
         "price": 83.95,
-        "quantity": 100,
+        "quantity": 55,
+        "rating": 5,
         "image_name": "ram-14.webp"
     },
     {
@@ -596,7 +670,8 @@
         "name": "Kingston FURY Beast 16 Go (2 x 8 Go) DDR5 6000 MHz CL30",
         "desc": "Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - KF560C30BBEK2-16 - Optimisé pour AMD",
         "price": 82.95,
-        "quantity": 100,
+        "quantity": 40,
+        "rating": 2,
         "image_name": "ram-15.webp"
     },
     {
@@ -604,7 +679,8 @@
         "name": "KIOXIA EXCERIA PLUS G3 1 TB",
         "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
         "price": 79.95,
-        "quantity": 100,
+        "quantity": 10,
+        "rating": 0,
         "image_name": "ssd-1.webp"
     },
     {
@@ -612,7 +688,8 @@
         "name": "KIOXIA EXCERIA PLUS G3 2 TB",
         "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
         "price": 169.9,
-        "quantity": 100,
+        "quantity": 50,
+        "rating": 5,
         "image_name": "ssd-2.webp"
     },
     {
@@ -620,7 +697,8 @@
         "name": "KIOXIA EXCERIA PLUS G4 1 TB",
         "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 2.0c - PCIe 5.0 x4",
         "price": 129.9,
-        "quantity": 100,
+        "quantity": 0,
+        "rating": 4,
         "image_name": "ssd-3.webp"
     },
     {
@@ -628,7 +706,8 @@
         "name": "KIOXIA EXCERIA PLUS G4 2 TB",
         "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 2.0c - PCIe 5.0 x4",
         "price": 209.9,
-        "quantity": 100,
+        "quantity": 30,
+        "rating": 4,
         "image_name": "ssd-4.webp"
     },
     {
@@ -636,7 +715,8 @@
         "name": "KIOXIA EXCERIA PRO 2 TB",
         "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
         "price": 149.9,
-        "quantity": 100,
+        "quantity": 40,
+        "rating": 5,
         "image_name": "ssd-5.webp"
     },
     {
@@ -644,7 +724,8 @@
         "name": "KIOXIA EXCERIA SATA 960 GB",
         "desc": "SSD 960 GB 3D NAND TLC 2.5\" 7 mm Serial ATA 6Gb/s",
         "price": 72.95,
-        "quantity": 100,
+        "quantity": 70,
+        "rating": 4,
         "image_name": "ssd-6.webp"
     },
     {
@@ -653,6 +734,7 @@
         "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4 - with heatsink",
         "price": 89.95,
         "quantity": 100,
+        "rating": 0,
         "image_name": "ssd-7.webp"
     },
     {
@@ -660,7 +742,8 @@
         "name": "KIOXIA EXCERIA with Heatsink 2 TB",
         "desc": "SSD 2 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4 - with heatsink",
         "price": 149.9,
-        "quantity": 100,
+        "quantity": 10,
+        "rating": 5,
         "image_name": "ssd-8.webp"
     },
     {
@@ -668,7 +751,8 @@
         "name": "KIOXIA EXCERIA with Heatsink 4 TB",
         "desc": "SSD 4 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4 - with heatsink",
         "price": 294.9,
-        "quantity": 100,
+        "quantity": 20,
+        "rating": 2,
         "image_name": "ssd-9.webp"
     },
     {
@@ -677,6 +761,7 @@
         "desc": "SSD 1 TB 3D NAND TLC M.2 2280 NVMe 1.4 - PCIe 4.0 x4",
         "price": 99.95,
         "quantity": 100,
+        "rating": 4,
         "image_name": "ssd-10.webp"
     },
     {
@@ -685,6 +770,7 @@
         "desc": "SSD 480 GB 3D NAND TLC 2.5\" 7 mm Serial ATA 6Gb/s",
         "price": 38.95,
         "quantity": 100,
+        "rating": 5,
         "image_name": "ssd-11.webp"
     },
     {
@@ -693,6 +779,7 @@
         "desc": "SSD 1920 GB NAND 3D TLC M.2 2280 PCIe 4.0 4x NVMe",
         "price": 179.9,
         "quantity": 100,
+        "rating": 4,
         "image_name": "ssd-12.webp"
     },
     {
@@ -700,7 +787,8 @@
         "name": "Fox Spirit PM70 PRO M.2 NVMe 960 GB PCIe 4.0",
         "desc": "SSD 960 GB NAND 3D TLC M.2 2280 PCIe 4.0 4x NVMe",
         "price": 114.9,
-        "quantity": 100,
+        "quantity": 20,
+        "rating": 4,
         "image_name": "ssd-13.webp"
     },
     {
@@ -708,7 +796,8 @@
         "name": "Textorm BM20 M.2 2280 PCIE NVME 1920 GB",
         "desc": "SSD 1920 GB NAND 3D TLC M.2 2280 PCI-E 3.0 4x NVMe",
         "price": 124.9,
-        "quantity": 100,
+        "quantity": 0,
+        "rating": 4,
         "image_name": "ssd-14.webp"
     },
     {
@@ -717,6 +806,8 @@
         "desc": "SSD 480 GB NAND 3D TLC M.2 2280 PCI-E 3.0 4x NVMe",
         "price": 44.95,
         "quantity": 100,
+        "rating": 5,
         "image_name": "ssd-15.webp"
     }
 ]
+

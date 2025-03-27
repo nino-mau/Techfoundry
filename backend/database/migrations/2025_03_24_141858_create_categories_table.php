@@ -11,21 +11,11 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('products', function (Blueprint $table) {
+        Schema::create('categories', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('category_id');
             $table->string('name');
-            $table->longText('desc')->nullable();
-            $table->decimal('price');
-            $table->integer('quantity');
-            $table->integer('rating')->nullable();
-            $table->string('image_name');
+            $table->longText('desc');
             $table->timestamps();
-
-             $table->foreign('category_id')
-             ->references('id')
-             ->on('categories')
-             ->onDelete('cascade');
         });
     }
 
@@ -34,8 +24,9 @@ return new class extends Migration
      */
     public function down(): void
     {
+        // Disable Foreign Key Checks before dropping
         Schema::disableForeignKeyConstraints();
-        Schema::dropIfExists('products');
+        Schema::dropIfExists('categories');
         Schema::enableForeignKeyConstraints();
     }
 };

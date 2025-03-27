@@ -18,43 +18,54 @@
 
 /* Define tailwind theme */
 @theme {
-    --color-primary: var(--p-primary-color);
-    --color-secondary: #1e375a;
+   --color-primary: var(--p-primary-color);
+   --color-secondary: #1e375a;
+
+   /* status colors */
+   --color-success: #05df72;
+   --color-info: #51a2ff;
+   --color-warn: #fdc700;
+   --color-error: #ff6467;
+}
+
+:root {
+   /* Custom primevue variable */
+   --p-divider-border-color: var(--color-secondary) !important;
 }
 
 body {
-    min-height: 100vh;
-    color: var(--color-text);
-    background: white !important;
-    transition:
-        color 0.5s,
-        background-color 0.5s;
-    line-height: 1.6;
-    font-family:
-        Montserrat,
-        sans-serif,
-        Inter,
-        -apple-system,
-        BlinkMacSystemFont,
-        'Segoe UI',
-        Roboto,
-        Oxygen,
-        Ubuntu,
-        Cantarell,
-        'Fira Sans',
-        'Droid Sans',
-        'Helvetica Neue',
-        sans-serif;
-    font-size: 16px;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+   min-height: 100vh;
+   color: var(--color-text);
+   background: white !important;
+   transition:
+      color 0.5s,
+      background-color 0.5s;
+   line-height: 1.6;
+   font-family:
+      Montserrat,
+      sans-serif,
+      Inter,
+      -apple-system,
+      BlinkMacSystemFont,
+      'Segoe UI',
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      'Fira Sans',
+      'Droid Sans',
+      'Helvetica Neue',
+      sans-serif;
+   font-size: 16px;
+   text-rendering: optimizeLegibility;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
 }
 
 #app {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    max-width: 1400px;
-    margin: 0 auto;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   max-width: 1400px;
+   margin: 0 auto;
 }

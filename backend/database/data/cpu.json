@@ -1,7 +1,7 @@
 [
     {
         "category_id": 1,
-        "name": "AMD Ryzen 3 3200G Wraith Stealth Edition (3.6 GHz / 4 GHz)",
+        "name": "AMD Ryzen 3 3200G",
         "desc": "Quad-Core 4-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 8 12 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 69.95,
         "quantity": 100,
@@ -9,7 +9,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 3 4100 Wraith Stealth (3.8 GHz / 4.0 GHz)",
+        "name": "AMD Ryzen 3 4100",
         "desc": "4-Core 8-Threads processor socket AM4 Cache 6 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 79.95,
         "quantity": 100,
@@ -17,7 +17,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 3 4300G Wraith Stealth (3.8 GHz / 4.0 GHz)",
+        "name": "AMD Ryzen 3 4300G",
         "desc": "4-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 99.95,
         "quantity": 100,
@@ -25,7 +25,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 3400G  (3.7 GHz / 4.2 GHz)",
+        "name": "AMD Ryzen 5 3400G ",
         "desc": "Quad-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 11 12 nm TDP 65W with cooling system (bulk version with fan - 3 years manufacturer warranty)",
         "price": 84.95,
         "quantity": 100,
@@ -33,7 +33,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 3400G Wraith Spire Edition (3.7 GHz / 4.2 GHz)",
+        "name": "AMD Ryzen 5 3400G",
         "desc": "Quad-Core 8-Threads processor socket AM4 Cache L3 4 Mo Radeon Vega Graphics 11 12 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 84.95,
         "quantity": 100,
@@ -41,7 +41,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 3600 (3.6 GHz / 4.2 GHz) with fan",
+        "name": "AMD Ryzen 5 3600",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W (bulk version with fan - 3 years manufacturer warranty)",
         "price": 79.95,
         "quantity": 100,
@@ -49,7 +49,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 3600 Wraith Stealth (3.6 GHz / 4.2 GHz) Box",
+        "name": "AMD Ryzen 5 3600",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 79.95,
         "quantity": 100,
@@ -57,7 +57,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 4500 Wraith Stealth  (3.6 GHz / 4.1 GHz)",
+        "name": "AMD Ryzen 5 4500",
         "desc": "6-Core 12-Threads processor socket AM4 Cache 11 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 89.95,
         "quantity": 100,
@@ -65,7 +65,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 5500 (3.6 GHz / 4.2 GHz)",
+        "name": "AMD Ryzen 5 5500",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 19 Mo 7 nm TDP 65W (tray version without fan - 3 years manufacturer warranty)",
         "price": 86.95,
         "quantity": 100,
@@ -73,7 +73,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 5500 Wraith Stealth (3.6 GHz / 4.2 GHz)",
+        "name": "AMD Ryzen 5 5500 Wraith Stealth",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 19 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 109.9,
         "quantity": 100,
@@ -81,7 +81,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 5500GT Wraith Stealth (3.6 GHz / 4.4 GHz)",
+        "name": "AMD Ryzen 5 5500GT Wraith Stealth",
         "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 129.9,
         "quantity": 100,
@@ -89,7 +89,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 5600 Wraith Stealth (3.5 GHz / 4.4 GHz)",
+        "name": "AMD Ryzen 5 5600 Wraith Stealth",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 139.9,
         "quantity": 100,
@@ -97,7 +97,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 5600G Wraith Stealth (3.9 GHz / 4.4 GHz)",
+        "name": "AMD Ryzen 5 5600G Wraith Stealth",
         "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 164.9,
         "quantity": 100,
@@ -105,7 +105,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 5600GT Wraith Stealth (3.6 GHz / 4.6 GHz)",
+        "name": "AMD Ryzen 5 5600GT Wraith Stealth",
         "desc": "6-Core 12-Threads processor socket AM4 Cache L3 16 Mo Radeon Vega Graphics 7 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 159.9,
         "quantity": 100,
@@ -113,7 +113,7 @@
     },
     {
         "category_id": 1,
-        "name": "AMD Ryzen 5 5600T Wraith Stealth (3.7 GHz / 4.5 GHz)",
+        "name": "AMD Ryzen 5 5600T Wraith Stealth",
         "desc": "6-Core 12-Threads processor socket AM4 GameCache 35 Mo 7 nm TDP 65W with cooling system (boxed version - 3 years manufacturer warranty)",
         "price": 164.9,
         "quantity": 100,
