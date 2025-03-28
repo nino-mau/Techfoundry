@@ -14,6 +14,7 @@ return new class extends Migration
         Schema::create('products', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('category_id');
+            $table->unsignedBigInteger('brand_id');
             $table->string('name');
             $table->longText('desc')->nullable();
             $table->decimal('price');
@@ -22,10 +23,13 @@ return new class extends Migration
             $table->string('image_name');
             $table->timestamps();
 
-             $table->foreign('category_id')
-             ->references('id')
-             ->on('categories')
-             ->onDelete('cascade');
+            // foreign keys
+            $table->foreign('category_id')
+                ->references('id')
+                ->on('categories');
+            $table->foreign('brand_id')
+                ->references('id')
+                ->on('brands');
         });
     }
 

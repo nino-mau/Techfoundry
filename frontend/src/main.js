@@ -1,12 +1,13 @@
+// custom css
 import './assets/main.css';
 
+// vue/primevue
 import { createApp } from 'vue';
 import PrimeVue from 'primevue/config';
 import Material from '@primeuix/themes/material';
 import { definePreset } from '@primeuix/themes';
 import { createPinia } from 'pinia';
 import 'primeicons/primeicons.css';
-
 import App from './App.vue';
 import router from './router';
 
@@ -39,8 +40,9 @@ const MyPreset = definePreset(Material, {
 });
 
 const app = createApp(App);
+const pinia = createPinia();
 
-app.use(createPinia());
+app.use(pinia);
 app.use(router);
 app.use(PrimeVue, {
    ripple: true,

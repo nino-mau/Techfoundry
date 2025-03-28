@@ -16,7 +16,9 @@ import {
             <TruckIcon class="text-inherit w-[55px]" />
             <h1 class="text-[19px] font-bold text-inherit">Exceptional Service</h1>
             <p class="text-[12px] text-inherit">
-                Proin ultices scelerisque que pretium mae purus accumsan nulla elementum
+
+
+         Proin ultices scelerisque que pretium mae purus accumsan nulla elementum
             </p>
         </div>
         <div class="flex flex-col gap-2 max-w-[219px] text-inherit">

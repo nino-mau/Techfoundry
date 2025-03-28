@@ -1,3 +1,6 @@
+// vue
+import { useGlobalStore } from '../stores/globalStore';
+
 const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000'; // get api url
 
 //***===== Functions =====***//
@@ -11,8 +14,17 @@ export async function callApi(
       credentials = 'include',
       caller = '',
       headers = { 'Content-Type': 'application/json' },
+      handleLoading = true,
    } = {},
 ) {
+   const globalStore = useGlobalStore();
+
+   if (handleLoading) {
+      globalStore.isLoading = true;
+   }
+
+   globalStore.apiError = null; // Reset error state before new call
+
    const options = {
       method: method,
       credentials: credentials,
@@ -46,13 +58,21 @@ export async function callApi(
          console.error(
             `[API] ${caller}: Call to endpoint ${endpoint} failed with status: ${response.status}`,
          );
+         const errorMsg = parsedResponse.error || parsedResponse.message || 'Unknown error';
          console.error(parsedResponse.error || parsedResponse.message || 'Unknown error');
+         globalStore.apiError = errorMsg;
          return false;
       }
 
       return parsedResponse;
    } catch (err) {
       console.error(`[API] Call to endpoint ${endpoint} failed with error:`, err);
+      globalStore.apiError = err.message;
+
       return { error: err.message, success: false };
+   } finally {
+      if (handleLoading) {
+         globalStore.isLoading = false;
+      }
    }
 }

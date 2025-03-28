@@ -1,4 +1,9 @@
+// vue
 import { createRouter, createWebHistory } from 'vue-router';
+
+// librairies
+import NProgress from 'nprogress';
+import 'nprogress/nprogress.css';
 
 // pages
 import CategoriesView from '@/views/CategoriesView.vue';
@@ -43,13 +48,26 @@ const router = createRouter({
       },
    ],
 });
-// Nav guard to process dynamic breadcrumbs
+
+//***===== Nav Guards =====***//
+
 router.beforeEach((to, from, next) => {
+   NProgress.start(); // show loading bar
+
    if (typeof to.meta.breadcrumb === 'function') {
       to.meta.breadcrumb = to.meta.breadcrumb(to);
    }
 
    next();
+});
+
+router.afterEach(() => {
+   NProgress.done(); // hide loading bar
+});
+
+router.onError((error) => {
+   console.error('Router Error:', error);
+   NProgress.done(); // hide loading bar
 });
 
 export default router;

@@ -1,19 +1,27 @@
 <script setup>
 // vue
-import { onMounted, ref } from 'vue';
+import { computed } from 'vue';
 import { useRoute } from 'vue-router';
 
 // pages
 import PageTitleHeader from '@/components/ui/PageTitleHeader.vue';
 import ProductsList from '@/components/main/ProductsList.vue';
 
+//***===== Setup =====***//
+
+const categoriesHashMap = {
+   CPUs: 1,
+   GPUs: 2,
+   Motherboards: 3,
+   'Power Supplies': 4,
+   RAMs: 5,
+   SSDs: 6,
+};
+
 const route = useRoute();
-const productCat = ref(null);
-
-//***===== Lifecycle =====***//
-
-onMounted(() => {
-   productCat.value = route.params.category;
+const productCat = computed(() => {
+   const category = route.params.category;
+   return category ? categoriesHashMap[category] || 0 : 0;
 });
 </script>
 

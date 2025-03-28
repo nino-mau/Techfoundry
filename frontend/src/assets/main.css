@@ -7,14 +7,16 @@
 
 /* Import custom css */
 @import './css/custom-hover-effects.css';
+@import './css/custom-nprogress.css';
 
-/* *,
+/* Remove default styling */
+*,
 *::before,
 *::after {
-    box-sizing: border-box;
-    margin: 0;
-    font-weight: normal;
-} */
+   box-sizing: border-box;
+   margin: 0;
+   font-weight: normal;
+}
 
 /* Define tailwind theme */
 @theme {
@@ -31,6 +33,8 @@
 :root {
    /* Custom primevue variable */
    --p-divider-border-color: var(--color-secondary) !important;
+   --p-inputgroup-addon-border-color: var(--color-primary) !important;
+   --p-progressspinner-color-one: var(--color-primary) !important;
 }
 
 body {

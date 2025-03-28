@@ -1,6 +1,6 @@
 <script setup>
 // vue
-import { onMounted, markRaw, ref } from 'vue';
+import { onMounted, markRaw, ref, computed } from 'vue';
 import { useRoute } from 'vue-router';
 
 // primevue
@@ -17,7 +17,7 @@ const route = useRoute();
 //***===== State =====***//
 
 // handle setting the right page name
-let pageName = isObjEmpty(route.params) ? ref(route.meta.label) : ref(route.params.category);
+let pageName = ref(isObjEmpty(route.params) ? ref(route.meta.label) : ref(route.params.category));
 
 const breadcrumbHomeItem = ref({
    icon: markRaw(HomeIcon),
@@ -27,6 +27,24 @@ const breadcrumbHomeItem = ref({
 let breadcrumbItems = ref([]);
 
 //***===== Functions =====***//
+
+// return categories description based on name of the category page
+const getCategoryDescription = computed(() => {
+   const desc = {
+      CPUs: 'Choose from various generations including high-performance gaming processors, workstation-grade CPUs, and budget-friendly options with different core counts and clock speeds.',
+      GPUs: 'Our selection includes the latest RTX and Radeon series cards with various VRAM capacities, cooling solutions, and performance tiers.',
+      Motherboards:
+         'Compatible with various CPU sockets and offering different expansion options, connectivity, and overclocking capabilities.',
+      'Power Supplies':
+         'Available in modular, semi-modular, and non-modular designs to power your entire system safely and efficiently.',
+      RAMs: 'Choose from DDR4 and DDR5 options with different latencies, RGB lighting effects, and performance profiles for gaming and productivity.',
+      SSDs: 'Options range from high-performance PCIe 4.0 drives to reliable backup storage with various capacities and form factors.',
+   };
+   return (
+      desc[pageName.value] ||
+      'Explore our wide range of high-quality computer components and accessories.'
+   );
+});
 
 //***===== Lifecycle =====***//
 
@@ -55,9 +73,8 @@ onMounted(() => {
          </template>
       </Breadcrumb>
       <h1 class="text-secondary text-[64px] font-bold">{{ pageName }}</h1>
-      <p class="text-secondary text-base font-medium">
-         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisl <br />
-         erat. Proin a elit ac nunc egestas porttitor.
+      <p class="text-secondary pr-[20rem] text-base">
+         {{ getCategoryDescription }}
       </p>
    </div>
 </template>

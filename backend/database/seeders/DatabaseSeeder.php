@@ -7,6 +7,7 @@ use App\Models\User;
 use Illuminate\Database\Seeder;
 use Database\Seeders\ProductsSeeder;
 use Database\Seeders\CategoriesSeeder;
+use Database\Seeders\BrandsSeeder;
 
 class DatabaseSeeder extends Seeder
 {
@@ -25,6 +26,7 @@ class DatabaseSeeder extends Seeder
         // Call other seeders
         $this->call([
             CategoriesSeeder::class,
+            BrandsSeeder::class,
             ProductsSeeder::class,
         ]);
     }

@@ -13,7 +13,7 @@ const goToProductsPage = (productCategory) => {
    <div class="flex flex-row justify-between">
       <div
          class="flex cursor-pointer flex-col items-center gap-5 transition hover:scale-105"
-         @click="goToProductsPage('CPU')"
+         @click="goToProductsPage('CPUs')"
       >
          <img
             class="h-[165px] w-[165px] rounded-xl shadow-md"
@@ -23,7 +23,7 @@ const goToProductsPage = (productCategory) => {
       </div>
       <div
          class="flex cursor-pointer flex-col items-center gap-5 transition hover:scale-105"
-         @click="goToProductsPage('GPU')"
+         @click="goToProductsPage('GPUs')"
       >
          <img
             class="h-[165px] w-[165px] rounded-xl shadow-md"
@@ -53,7 +53,7 @@ const goToProductsPage = (productCategory) => {
       </div>
       <div
          class="flex cursor-pointer flex-col items-center gap-5 transition hover:scale-105"
-         @click="goToProductsPage('RAM')"
+         @click="goToProductsPage('RAMs')"
       >
          <img
             class="h-[165px] w-[165px] rounded-xl shadow-md"
@@ -63,7 +63,7 @@ const goToProductsPage = (productCategory) => {
       </div>
       <div
          class="flex cursor-pointer flex-col items-center gap-5 transition hover:scale-105"
-         @click="goToProductsPage('SSD')"
+         @click="goToProductsPage('SSDs')"
       >
          <img
             class="h-[165px] w-[165px] rounded-xl shadow-md"
