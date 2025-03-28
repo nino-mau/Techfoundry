@@ -2,7 +2,7 @@
 import './assets/main.css';
 
 // vue/primevue
-import { createApp } from 'vue';
+import { createApp, h } from 'vue';
 import PrimeVue from 'primevue/config';
 import Material from '@primeuix/themes/material';
 import { definePreset } from '@primeuix/themes';
@@ -10,6 +10,16 @@ import { createPinia } from 'pinia';
 import 'primeicons/primeicons.css';
 import App from './App.vue';
 import router from './router';
+
+// Vue toastify
+import Vue3Toastify from 'vue3-toastify';
+import 'vue3-toastify/dist/index.css';
+
+// Icons
+import IconToastSuccess from './components/icons/IconToastSuccess.vue';
+import IconToastInfo from './components/icons/IconToastInfo.vue';
+import IconToastWarn from './components/icons/IconToastWarn.vue';
+import IconToastError from './components/icons/IconToastError.vue';
 
 // Primevue custom theme
 const MyPreset = definePreset(Material, {
@@ -39,11 +49,32 @@ const MyPreset = definePreset(Material, {
    },
 });
 
+// Pass custom icon to toastify toasts
+const ResolveCustomIcon = (props) => {
+   const isColoredTheme = props.theme === 'colored';
+
+   switch (props.type) {
+      case 'info':
+         return isColoredTheme ? IconToastInfo : h(IconToastInfo, { color: '#3498DB' });
+      case 'success':
+         return isColoredTheme ? IconToastSuccess : h(IconToastSuccess, { color: '#44bb2e' });
+      case 'error':
+         return isColoredTheme ? IconToastError : h(IconToastError, { color: '#da5a42' });
+      case 'warning':
+         return isColoredTheme ? IconToastWarn : h(IconToastWarn, { color: '#eac839' });
+      default:
+         return undefined;
+   }
+};
+
 const app = createApp(App);
 const pinia = createPinia();
 
 app.use(pinia);
 app.use(router);
+app.use(Vue3Toastify, {
+   icon: ResolveCustomIcon,
+});
 app.use(PrimeVue, {
    ripple: true,
    theme: {

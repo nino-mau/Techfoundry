@@ -4,6 +4,7 @@ import { onMounted, ref, defineProps } from 'vue';
 
 // store
 import { useGlobalStore } from '@/stores/globalStore';
+import { storeToRefs } from 'pinia';
 
 // primevue
 import {
@@ -98,6 +99,7 @@ const getProducts = async () => {
       credentials: 'same-origin',
       caller: 'getProducts',
       isProtected: false,
+      handleLoading: true,
    };
    const r = await callApi(url, options);
 
@@ -117,6 +119,7 @@ const getFilteredProducts = async (
       credentials: 'same-origin',
       caller: 'getFilteredProducts',
       isProtected: false,
+      handleLoading: true,
    };
 
    // Build query params
@@ -199,6 +202,9 @@ const handleInStockFilter = () => {
 const handleSearching = (searchValue) => {
    getFilteredProducts(null, selectedBrand.value, searchValue, isInStock.value);
 };
+
+// Add computed property to track loading state
+const { isLoading } = storeToRefs(globalStore); // Use
 
 //***===== Lifecycle =====***//
 
@@ -322,7 +328,12 @@ onMounted(async () => {
                </div>
             </template>
             <template #grid="slotProps">
-               <div class="grid grid-cols-12 gap-4">
+               <!-- Loading Overlay -->
+               <div v-if="isLoading" class="m-40 flex items-center justify-center">
+                  <ProgressSpinner />
+               </div>
+               <!-- Product List -->
+               <div v-else class="grid grid-cols-12 gap-4">
                   <div v-for="(item, index) in slotProps.items" :key="index" class="col-span-6 p-2">
                      <!-- Product -->
                      <div
@@ -395,14 +406,11 @@ onMounted(async () => {
                </div>
             </template>
             <template #empty>
-               <div
-                  v-if="!globalStore.isLoading"
-                  class="m-35 flex flex-col items-center justify-center"
-               >
-                  <!-- <IconSearch color="var(--color-primary)" width="40px" /> -->
+               <div v-if="!isLoading" class="m-35 flex flex-col items-center justify-center">
                   <IllustrationEmpty color="var(--color-primary)" width="125px" />
                   <h3 class="text-primary text-2xl font-bold">No Item Found</h3>
                </div>
+               <!-- Loading -->
                <div v-else class="m-40 flex items-center justify-center">
                   <ProgressSpinner />
                </div>

@@ -20,7 +20,7 @@ export async function callApi(
    const globalStore = useGlobalStore();
 
    if (handleLoading) {
-      globalStore.isLoading = true;
+      globalStore.setLoading(true);
    }
 
    globalStore.apiError = null; // Reset error state before new call
@@ -61,10 +61,10 @@ export async function callApi(
          const errorMsg = parsedResponse.error || parsedResponse.message || 'Unknown error';
          console.error(parsedResponse.error || parsedResponse.message || 'Unknown error');
          globalStore.apiError = errorMsg;
-         return false;
+         return { response: parsedResponse, status: response.status, success: false };
       }
 
-      return parsedResponse;
+      return { response: parsedResponse, status: response.status, success: true };
    } catch (err) {
       console.error(`[API] Call to endpoint ${endpoint} failed with error:`, err);
       globalStore.apiError = err.message;
@@ -72,7 +72,7 @@ export async function callApi(
       return { error: err.message, success: false };
    } finally {
       if (handleLoading) {
-         globalStore.isLoading = false;
+         globalStore.setLoading(false);
       }
    }
 }

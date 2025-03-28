@@ -35,6 +35,9 @@
    --p-divider-border-color: var(--color-secondary) !important;
    --p-inputgroup-addon-border-color: var(--color-primary) !important;
    --p-progressspinner-color-one: var(--color-primary) !important;
+   --p-progressspinner-color-two: var(--color-primary) !important;
+   --p-progressspinner-color-three: var(--color-primary) !important;
+   --p-progressspinner-color-four: var(--color-primary) !important;
 }
 
 body {

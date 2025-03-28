@@ -9,6 +9,8 @@ import 'nprogress/nprogress.css';
 import CategoriesView from '@/views/CategoriesView.vue';
 import ProductsView from '@/views/ProductsView.vue';
 import HomeView from '@/views/HomeView.vue';
+import LoginView from '@/views/LoginView.vue';
+import RegisterView from '@/views/RegisterView.vue';
 
 const router = createRouter({
    history: createWebHistory(import.meta.env.BASE_URL),
@@ -19,6 +21,22 @@ const router = createRouter({
          component: HomeView,
          meta: {
             label: 'Home',
+         },
+      },
+      {
+         path: '/login',
+         name: 'login',
+         component: LoginView,
+         meta: {
+            label: 'Login',
+         },
+      },
+      {
+         path: '/register',
+         name: 'register',
+         component: RegisterView,
+         meta: {
+            label: 'Register',
          },
       },
       {

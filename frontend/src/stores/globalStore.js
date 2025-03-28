@@ -8,6 +8,7 @@ export const useGlobalStore = defineStore('app', {
    actions: {
       setLoading(status) {
          this.isLoading = status;
+         console.log('set loading to', status);
       },
       setError(error) {
          this.apiError = error;
